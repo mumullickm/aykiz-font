@@ -16,11 +16,16 @@ copyright and license travel with these files.
 
 ## What was changed
 
-Every glyph outline was run through a morphological corner-rounding filter
-(dilate +R → erode −2R → dilate +R with circular joins), which rounds both
-convex and concave corners at radius ~R while leaving straight edges and
-existing curves untouched. The radius scales with weight so the softness is
-optically consistent and thin strokes are never eroded:
+Every glyph outline is processed with a curve-preserving corner-rounding
+filter (v1.1). Montserrat's original quadratic beziers are kept untouched;
+corners are detected by tangent discontinuity (>22°), the two adjacent
+segments are trimmed back by the radius, and each corner is bridged with a
+single true quadratic curve whose control point is the original corner. No
+outline is ever flattened: straight edges stay lines, curves stay curves,
+and point counts stay close to the original (the Regular B is 55 points vs
+Montserrat's 33, versus 131 line-only points in the withdrawn v1.0 filter).
+The radius scales with weight so the softness is optically consistent and
+thin strokes are never damaged:
 
 | Weight | Radius (per 1000 UPM) |
 |---|---|

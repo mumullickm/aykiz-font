@@ -1,164 +1,216 @@
-"""Apply subtle corner-rounding to an existing TTF (e.g. Montserrat).
+"""Aykiz corner rounding v2 — curve-preserving.
 
-Keeps metrics/kerning/cmap; only glyph outlines are filtered.
-Method: flatten quadratic outlines to fine polylines, then morphological
-rounding: buffer(+R) -> buffer(-2R) -> buffer(+R) with round joins, which
-rounds convex AND concave corners with radius ~R while leaving straight
-edges and existing curves essentially untouched.
+v1 flattened outlines to polylines (correctly criticized in review: no true
+curves in the output). v2 never flattens: it keeps every original quadratic
+bezier untouched, finds real corners by tangent discontinuity, trims the two
+adjacent segments back by the radius, and bridges each corner with a single
+genuine quadratic whose control point is the original corner. Straight edges
+stay lines, curves stay curves, every rounded corner is one real curve.
 """
 import math
 import sys
-
-from shapely.geometry import Polygon
-from shapely.ops import unary_union
 
 from fontTools.ttLib import TTFont
 from fontTools.pens.recordingPen import RecordingPen
 from fontTools.pens.ttGlyphPen import TTGlyphPen
 from fontTools.ttLib.tables import ttProgram
+from fontTools.misc.bezierTools import splitQuadraticAtT, calcQuadraticArcLength
 
-RADIUS = 12          # corner radius in font units (1000 UPM) — "very little"
-SAMPLE = 7.0         # max chord length when flattening curves
-SIMPLIFY = 0.7       # final point-thinning tolerance
-QS = 6               # arc smoothness of the rounded corners
+CORNER_ANGLE = 22          # degrees of tangent change that counts as a corner
+MAX_TRIM_FRACTION = 0.42   # never consume more than this much of a segment per end
 
 
-def flatten_segments(rec):
-    """RecordingPen value -> list of closed point-loops."""
+# ---------------------------------------------------------------- segments
+# segment = ('line', p0, p1) | ('quad', p0, c, p1)
+
+def contours_from_glyph(glyph_set, name):
+    rec = RecordingPen()
+    glyph_set[name].draw(rec)
     contours, cur, start = [], [], None
-    for op, args in rec:
+    for op, args in rec.value:
         if op == 'moveTo':
-            cur = [args[0]]
             start = args[0]
+            cur = []
+            last = start
         elif op == 'lineTo':
-            cur.append(args[0])
+            cur.append(('line', last, args[0]))
+            last = args[0]
         elif op == 'qCurveTo':
             pts = list(args)
-            if pts[-1] is None:          # TrueType all-off-curve contour
+            if pts[-1] is None:              # all-off-curve TrueType contour
+                # implied start = midpoint of last off and first off
+                first_off = pts[0]
+                implied_start = ((pts[-2][0] + start[0]) / 2, (pts[-2][1] + start[1]) / 2) \
+                    if False else None
+                # fontTools emits moveTo at implied on-curve already for None-contours
                 pts[-1] = start
-            p0 = cur[-1]
-            # expand implied on-curve midpoints
-            offs = pts[:-1]
-            segs = []
-            if len(offs) <= 1:
-                segs.append((p0, offs[0] if offs else p0, pts[-1]))
+            offs, on = pts[:-1], pts[-1]
+            if not offs:
+                cur.append(('line', last, on))
+            elif len(offs) == 1:
+                cur.append(('quad', last, offs[0], on))
             else:
-                prev = p0
+                prev = last
                 for i in range(len(offs) - 1):
                     mid = ((offs[i][0] + offs[i + 1][0]) / 2,
                            (offs[i][1] + offs[i + 1][1]) / 2)
-                    segs.append((prev, offs[i], mid))
+                    cur.append(('quad', prev, offs[i], mid))
                     prev = mid
-                segs.append((prev, offs[-1], pts[-1]))
-            for a, b, c in segs:
-                length = (math.dist(a, b) + math.dist(b, c))
-                n = max(2, int(length / SAMPLE))
-                for i in range(1, n + 1):
-                    t = i / n
-                    mt = 1 - t
-                    cur.append((mt * mt * a[0] + 2 * mt * t * b[0] + t * t * c[0],
-                                mt * mt * a[1] + 2 * mt * t * b[1] + t * t * c[1]))
-        elif op == 'curveTo':            # cubic (rare in TTF): sample
-            p0 = cur[-1]
-            b, c, d = args
-            length = math.dist(p0, b) + math.dist(b, c) + math.dist(c, d)
-            n = max(3, int(length / SAMPLE))
-            for i in range(1, n + 1):
-                t = i / n
-                mt = 1 - t
-                cur.append((mt**3 * p0[0] + 3 * mt * mt * t * b[0] + 3 * mt * t * t * c[0] + t**3 * d[0],
-                            mt**3 * p0[1] + 3 * mt * mt * t * b[1] + 3 * mt * t * t * c[1] + t**3 * d[1]))
+                cur.append(('quad', prev, offs[-1], on))
+            last = on
+        elif op == 'curveTo':
+            raise ValueError('cubic in TTF unexpected')
         elif op == 'closePath':
-            if len(cur) >= 3:
+            if last != start:
+                cur.append(('line', last, start))
+            if cur:
                 contours.append(cur)
             cur = []
     return contours
 
 
-def signed_area(pts):
-    s = 0.0
-    for i in range(len(pts)):
-        x0, y0 = pts[i]
-        x1, y1 = pts[(i + 1) % len(pts)]
-        s += x0 * y1 - x1 * y0
-    return s / 2
+def seg_length(s):
+    if s[0] == 'line':
+        return math.dist(s[1], s[2])
+    return calcQuadraticArcLength(s[1], s[2], s[3])
 
 
-def to_geometry(contours):
-    outers, holes = [], []
-    for c in contours:
-        p = Polygon(c)
-        if not p.is_valid:
-            p = p.buffer(0)
-        if p.is_empty:
-            continue
-        # TrueType y-up: outer contours wind CW (negative shoelace area)
-        (holes if signed_area(c) > 0 else outers).append(p)
-    if not outers:
-        return None
-    g = unary_union(outers)
-    if holes:
-        g = g.difference(unary_union(holes))
-    return g
+def tangent_out(s):
+    if s[0] == 'line':
+        v = (s[2][0] - s[1][0], s[2][1] - s[1][1])
+    else:
+        v = (s[3][0] - s[2][0], s[3][1] - s[2][1])
+        if v == (0, 0):
+            v = (s[3][0] - s[1][0], s[3][1] - s[1][1])
+    return v
 
 
-def round_geometry(g, r):
-    out = (g.buffer(r, quad_segs=QS, join_style=1)
-            .buffer(-2 * r, quad_segs=QS, join_style=1)
-            .buffer(r, quad_segs=QS, join_style=1)
-            .simplify(SIMPLIFY))
-    return out
+def tangent_in(s):
+    if s[0] == 'line':
+        v = (s[2][0] - s[1][0], s[2][1] - s[1][1])
+    else:
+        v = (s[2][0] - s[1][0], s[2][1] - s[1][1])
+        if v == (0, 0):
+            v = (s[3][0] - s[1][0], s[3][1] - s[1][1])
+    return v
 
 
-def geometry_to_glyph(g):
-    from shapely.geometry.polygon import orient
-    pen = TTGlyphPen(None)
-    polys = [g] if g.geom_type == 'Polygon' else list(g.geoms)
-    for p in polys:
-        if p.is_empty or p.area < 10:
-            continue
-        p = orient(p, sign=-1.0)   # exterior CW, holes CCW (TT y-up)
-        rings = [list(p.exterior.coords)[:-1]] + \
-                [list(h.coords)[:-1] for h in p.interiors]
-        for ring in rings:
-            pen.moveTo((round(ring[0][0]), round(ring[0][1])))
-            for x, y in ring[1:]:
-                pen.lineTo((round(x), round(y)))
-            pen.closePath()
-    return pen.glyph()
+def angle_between(v1, v2):
+    n1, n2 = math.hypot(*v1), math.hypot(*v2)
+    if n1 == 0 or n2 == 0:
+        return 0.0
+    dot = (v1[0] * v2[0] + v1[1] * v2[1]) / (n1 * n2)
+    return math.degrees(math.acos(max(-1.0, min(1.0, dot))))
 
 
-def process(path_in, path_out, new_family, radius=RADIUS):
+def trim_end(s, d):
+    """Cut length d off the end of a segment."""
+    L = seg_length(s)
+    if L <= 1e-6 or d <= 0:
+        return s
+    t = max(0.0, 1.0 - d / L)
+    if s[0] == 'line':
+        p = (s[1][0] + (s[2][0] - s[1][0]) * t, s[1][1] + (s[2][1] - s[1][1]) * t)
+        return ('line', s[1], p)
+    first, _ = splitQuadraticAtT(s[1], s[2], s[3], t)
+    return ('quad', first[0], first[1], first[2])
+
+
+def trim_start(s, d):
+    L = seg_length(s)
+    if L <= 1e-6 or d <= 0:
+        return s
+    t = min(1.0, d / L)
+    if s[0] == 'line':
+        p = (s[1][0] + (s[2][0] - s[1][0]) * t, s[1][1] + (s[2][1] - s[1][1]) * t)
+        return ('line', p, s[2])
+    _, second = splitQuadraticAtT(s[1], s[2], s[3], t)
+    return ('quad', second[0], second[1], second[2])
+
+
+def round_contour(segs, radius):
+    n = len(segs)
+    if n < 2:
+        return segs
+    # decide which junctions are corners; junction i is between segs[i] and segs[(i+1)%n]
+    corner = [False] * n
+    for i in range(n):
+        j = (i + 1) % n
+        ang = angle_between(tangent_out(segs[i]), tangent_in(segs[j]))
+        if ang > CORNER_ANGLE:
+            corner[i] = True
+    if not any(corner):
+        return segs
+    # per-junction trim, clamped so a segment never loses too much of itself
+    lens = [seg_length(s) for s in segs]
+    trim = [0.0] * n
+    for i in range(n):
+        if corner[i]:
+            j = (i + 1) % n
+            trim[i] = min(radius, lens[i] * MAX_TRIM_FRACTION, lens[j] * MAX_TRIM_FRACTION)
+    out = []
+    for i in range(n):
+        s = segs[i]
+        prev_j = (i - 1) % n
+        s = trim_start(s, trim[prev_j] if corner[prev_j] else 0.0)
+        s = trim_end(s, trim[i] if corner[i] else 0.0)
+        out.append(s)
+        if corner[i] and trim[i] > 0.35:
+            j = (i + 1) % n
+            corner_pt = segs[i][-1]           # original junction point
+            start_pt = out[-1][-1]            # trimmed end of current
+            nxt = trim_start(segs[j], trim[i])
+            end_pt = nxt[1]
+            out.append(('quad', start_pt, corner_pt, end_pt))
+    # stitch: recompute start points so the contour is exactly closed
+    stitched = []
+    for k, s in enumerate(out):
+        prev_end = out[k - 1][-1]
+        if s[0] == 'line':
+            stitched.append(('line', prev_end, s[2]))
+        else:
+            stitched.append(('quad', prev_end, s[2], s[3]))
+    return stitched
+
+
+def contour_to_pen(segs, pen):
+    r = lambda p: (round(p[0]), round(p[1]))
+    start = r(segs[0][1])
+    pen.moveTo(start)
+    for s in segs:
+        if s[0] == 'line':
+            if r(s[2]) != r(s[1]):
+                pen.lineTo(r(s[2]))
+        else:
+            pen.qCurveTo(r(s[2]), r(s[3]))
+    pen.closePath()
+
+
+# ---------------------------------------------------------------- pipeline
+
+def process(path_in, path_out, new_family, radius):
     font = TTFont(path_in)
     glyf = font['glyf']
     glyph_set = font.getGlyphSet()
-    skipped, done = [], 0
-
+    done = 0
     for name in font.getGlyphOrder():
         glyph = glyf[name]
         if glyph.isComposite():
-            # children get rounded; just drop stale composite instructions
             if hasattr(glyph, 'program'):
                 glyph.program = ttProgram.Program()
             continue
         if glyph.numberOfContours <= 0:
             continue
-        rec = RecordingPen()
-        glyph_set[name].draw(rec)
-        contours = flatten_segments(rec.value)
-        g = to_geometry(contours)
-        if g is None or g.is_empty:
-            skipped.append(name)
+        try:
+            contours = contours_from_glyph(glyph_set, name)
+        except ValueError:
             continue
-        rounded = round_geometry(g, radius)
-        if rounded.is_empty or rounded.area < g.area * 0.75:
-            skipped.append(name)     # feature too thin — keep original
-            continue
-        glyf[name] = geometry_to_glyph(rounded)
+        pen = TTGlyphPen(None)
+        for c in contours:
+            contour_to_pen(round_contour(c, radius), pen)
+        glyf[name] = pen.glyph()
         done += 1
 
-    # names: swap family; RETAIN original copyright + OFL license (required
-    # by the OFL) and add our modification statement on top.
     name_tab = font['name']
     for rec in name_tab.names:
         if rec.nameID in (1, 3, 4, 6, 16, 18, 21):
@@ -172,16 +224,15 @@ def process(path_in, path_out, new_family, radius=RADIUS):
                           'Copyright 2026 Miraz Mullick, licensed under the '
                           'SIL Open Font License 1.1' % new_family)
         elif rec.nameID == 5:
-            rec.string = rec.toUnicode() + '; corner-rounded derivative of Montserrat'
-
+            rec.string = (rec.toUnicode() +
+                          '; corner-rounded derivative of Montserrat (v1.1 curve-preserving)')
+    font['head'].fontRevision = 1.1
     font.save(path_out)
-    return done, skipped
+    return done
 
 
 if __name__ == '__main__':
     src, dst, fam = sys.argv[1], sys.argv[2], sys.argv[3]
-    r = float(sys.argv[4]) if len(sys.argv) > 4 else RADIUS
-    done, skipped = process(src, dst, fam, r)
-    print(f'{src} -> {dst}: rounded {done} glyphs, kept original for {len(skipped)}')
-    if skipped:
-        print('  kept:', ' '.join(skipped[:20]), '...' if len(skipped) > 20 else '')
+    r = float(sys.argv[4]) if len(sys.argv) > 4 else 12
+    done = process(src, dst, fam, r)
+    print(f'{src} -> {dst}: processed {done} glyphs (curve-preserving, r={r})')
