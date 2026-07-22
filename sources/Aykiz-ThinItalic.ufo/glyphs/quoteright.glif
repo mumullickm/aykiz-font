@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quoteright" format="2">
+  <advance width="182"/>
+  <unicode hex="2019"/>
+  <outline>
+    <contour>
+      <point x="124.0866182299664" y="563.4888442300825" type="line"/>
+      <point x="122.61553705241924" y="559.9196636681647"/>
+      <point x="125.23954281017069" y="556.0"/>
+      <point x="129.1" y="556.0" type="curve"/>
+      <point x="135.13890548465147" y="556.0" type="line"/>
+      <point x="137.49054498377438" y="556.0"/>
+      <point x="139.6253892636053" y="557.3738059233298"/>
+      <point x="140.5997078612533" y="559.5141123509499" type="curve"/>
+      <point x="200" y="690" type="line" smooth="yes"/>
+      <point x="205" y="701"/>
+      <point x="209" y="708"/>
+      <point x="209" y="719" type="curve" smooth="yes"/>
+      <point x="209" y="733"/>
+      <point x="197" y="745"/>
+      <point x="183" y="745" type="curve" smooth="yes"/>
+      <point x="169" y="745"/>
+      <point x="157" y="733"/>
+      <point x="157" y="719" type="curve" smooth="yes"/>
+      <point x="157" y="705"/>
+      <point x="169" y="693"/>
+      <point x="183" y="693" type="curve"/>
+      <point x="182.45" y="699.05" type="line"/>
+      <point x="182.33446369977284" y="700.3208993024988"/>
+      <point x="180.59224589357905" y="700.5844654467164"/>
+      <point x="180.10595485154386" y="699.4046117709589" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>period</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>period</string>
+    </dict>
+  </lib>
+</glyph>

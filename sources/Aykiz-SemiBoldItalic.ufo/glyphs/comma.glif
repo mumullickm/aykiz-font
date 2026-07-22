@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="comma" format="2">
+  <advance width="235"/>
+  <unicode hex="002C"/>
+  <outline>
+    <contour>
+      <point x="-18.87179232460337" y="-120.87178922021373" type="line"/>
+      <point x="-25.029734908895325" y="-134.5347243291115"/>
+      <point x="-15.036529039820646" y="-150.0"/>
+      <point x="-0.05000000000000071" y="-150.0" type="curve"/>
+      <point x="22.803532746882812" y="-150.0" type="line"/>
+      <point x="32.82339377325097" y="-150.0"/>
+      <point x="42.07951730940223" y="-144.64583922342567"/>
+      <point x="47.07519524899241" y="-135.9601718966382" type="curve"/>
+      <point x="127" y="3" type="line" smooth="yes"/>
+      <point x="145" y="34"/>
+      <point x="153" y="51"/>
+      <point x="153" y="74" type="curve" smooth="yes"/>
+      <point x="153" y="116"/>
+      <point x="123" y="146"/>
+      <point x="83" y="146" type="curve" smooth="yes"/>
+      <point x="40" y="146"/>
+      <point x="4" y="113"/>
+      <point x="4" y="65" type="curve" smooth="yes"/>
+      <point x="4" y="24"/>
+      <point x="35" y="-6"/>
+      <point x="75" y="-6" type="curve"/>
+      <point x="68.95" y="31.95" type="line"/>
+      <point x="67.4794609906998" y="41.17429014924666"/>
+      <point x="54.918601152439635" y="42.85064630697545"/>
+      <point x="51.080491945281835" y="34.33484150359408" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>period</string>
+    </dict>
+  </lib>
+</glyph>

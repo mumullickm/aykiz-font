@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="udieresis.sc.ss01.alt.BRACKET.133" format="2">
+  <advance width="678"/>
+  <outline>
+    <contour>
+      <point x="284" y="-3" type="curve" smooth="yes"/>
+      <point x="386" y="-3"/>
+      <point x="468" y="42"/>
+      <point x="515" y="138" type="curve"/>
+      <point x="512.8" y="139.1" type="line"/>
+      <point x="511.89347198270724" y="139.55326400864638"/>
+      <point x="510.8040933081351" y="139.02046654067559"/>
+      <point x="510.60532389131185" y="138.0266194565592" type="curve"/>
+      <point x="484.43533936216585" y="7.176696810829101" type="line"/>
+      <point x="483.692789048007" y="3.4639452400350192"/>
+      <point x="486.53254487459105" y="0.0"/>
+      <point x="490.3188234163113" y="0.0" type="curve"/>
+      <point x="498.0915176933343" y="0.0" type="line"/>
+      <point x="500.9469507000561" y="0.0"/>
+      <point x="503.406788970456" y="2.0123454379194947"/>
+      <point x="503.9725613817869" y="4.811166481582929" type="curve"/>
+      <point x="614.5468010955615" y="551.811166481583" type="line"/>
+      <point x="615.2980112561713" y="555.5273300194667"/>
+      <point x="612.4570880634485" y="559.0"/>
+      <point x="608.6657574071089" y="559.0" type="curve"/>
+      <point x="600.8959871624787" y="559.0" type="line"/>
+      <point x="598.0461847097893" y="559.0"/>
+      <point x="595.5895630104268" y="556.9954019494758"/>
+      <point x="595.0179311660658" y="554.2035188835385" type="curve"/>
+      <point x="527" y="222" type="line" smooth="yes"/>
+      <point x="498" y="82"/>
+      <point x="408" y="17"/>
+      <point x="288" y="17" type="curve" smooth="yes"/>
+      <point x="162" y="17"/>
+      <point x="104" y="89"/>
+      <point x="132" y="232" type="curve" smooth="yes"/>
+      <point x="195.5748155149914" y="551.830225744649" type="line"/>
+      <point x="196.31243596270264" y="555.541023996981"/>
+      <point x="193.47335013152056" y="559.0"/>
+      <point x="189.68995118422572" y="559.0" type="curve"/>
+      <point x="181.91294554498296" y="559.0" type="line"/>
+      <point x="179.05550349346586" y="559.0"/>
+      <point x="176.59451993869308" y="556.9848869680504"/>
+      <point x="176.03084501334595" y="554.1835933996587" type="curve"/>
+      <point x="111" y="231" type="line" smooth="yes"/>
+      <point x="80" y="78"/>
+      <point x="151" y="-3"/>
+    </contour>
+    <contour>
+      <point x="308" y="510" type="curve" smooth="yes"/>
+      <point x="323" y="510"/>
+      <point x="335" y="523"/>
+      <point x="335" y="538" type="curve" smooth="yes"/>
+      <point x="335" y="551"/>
+      <point x="323" y="562"/>
+      <point x="310" y="562" type="curve" smooth="yes"/>
+      <point x="295" y="562"/>
+      <point x="283" y="549"/>
+      <point x="283" y="534" type="curve" smooth="yes"/>
+      <point x="283" y="521"/>
+      <point x="295" y="510"/>
+    </contour>
+    <contour>
+      <point x="472" y="510" type="curve" smooth="yes"/>
+      <point x="487" y="510"/>
+      <point x="499" y="523"/>
+      <point x="499" y="538" type="curve" smooth="yes"/>
+      <point x="499" y="551"/>
+      <point x="487" y="562"/>
+      <point x="474" y="562" type="curve" smooth="yes"/>
+      <point x="459" y="562"/>
+      <point x="447" y="549"/>
+      <point x="447" y="534" type="curve" smooth="yes"/>
+      <point x="447" y="521"/>
+      <point x="459" y="510"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs._originalLayerName</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>u.sc.ss01</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>u.sc.ss01</string>
+    </dict>
+  </lib>
+</glyph>

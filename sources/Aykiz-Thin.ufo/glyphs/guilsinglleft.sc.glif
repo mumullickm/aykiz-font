@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guilsinglleft.sc" format="2">
+  <advance width="259"/>
+  <guideline x="191" y="374" angle="0"/>
+  <outline>
+    <contour>
+      <point x="189.1985784753217" y="115.24839077516236" type="line"/>
+      <point x="190.33729050643635" y="113.82714117241781"/>
+      <point x="192.05988036681887" y="113.0"/>
+      <point x="193.88103810932958" y="113.0" type="curve"/>
+      <point x="203.65" y="113.0" type="line"/>
+      <point x="207.83002829878242" y="113.0"/>
+      <point x="210.1598571699864" y="117.82927052865347"/>
+      <point x="207.55823977558967" y="121.1010014943342" type="curve"/>
+      <point x="84.96058513571849" y="275.2768399050813" type="line"/>
+      <point x="83.22631093704892" y="277.45782109431724"/>
+      <point x="83.22179661928183" y="280.5457578440914"/>
+      <point x="84.94968657673529" y="282.7318004417787" type="curve"/>
+      <point x="207.58195329860726" y="437.8801984914198" type="line"/>
+      <point x="210.17946204144474" y="441.1664406130399"/>
+      <point x="207.83884697154573" y="446.0"/>
+      <point x="203.65" y="446.0" type="curve"/>
+      <point x="193.89185796190634" y="446.0" type="line"/>
+      <point x="192.06453804336297" y="446.0"/>
+      <point x="190.33681423552122" y="445.16727802505295"/>
+      <point x="189.19843072289618" y="443.73787917837336" type="curve"/>
+      <point x="60.98582983542547" y="282.7491246805718" type="line"/>
+      <point x="59.239636736242055" y="280.55653635302576"/>
+      <point x="59.24419019267421" y="277.4471009625269"/>
+      <point x="60.99679744042778" y="275.2596362773608" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>18</integer>
+        <key>height</key>
+        <integer>80</integer>
+        <key>width</key>
+        <integer>81</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>guilsinglleft</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>guilsinglleft</string>
+    </dict>
+  </lib>
+</glyph>

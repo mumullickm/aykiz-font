@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pe-cy" format="2">
+  <advance width="668"/>
+  <unicode hex="043F"/>
+  <anchor x="531" y="0" name="bottomleft"/>
+  <outline>
+    <contour>
+      <point x="117.0" y="5.999999999999999" type="line"/>
+      <point x="117.0" y="2.6862915010152384"/>
+      <point x="119.68629150101523" y="0.0"/>
+      <point x="123.0" y="0.0" type="curve"/>
+      <point x="131.0" y="0.0" type="line"/>
+      <point x="134.31370849898477" y="0.0"/>
+      <point x="137.0" y="2.6862915010152384"/>
+      <point x="137.0" y="5.999999999999999" type="curve"/>
+      <point x="137.0" y="500.90883117545684" type="line"/>
+      <point x="137.0" y="502.78759909868154"/>
+      <point x="134.72848953878795" y="503.7284895387879"/>
+      <point x="133.4" y="502.4" type="curve"/>
+      <point x="132.6" y="501.6" type="line"/>
+      <point x="131.27151046121205" y="500.2715104612121"/>
+      <point x="132.21240090131846" y="498.0"/>
+      <point x="134.09116882454313" y="498.0" type="curve"/>
+      <point x="533.9088311754568" y="498.0" type="line"/>
+      <point x="535.7875990986815" y="498.0"/>
+      <point x="536.7284895387879" y="500.2715104612121"/>
+      <point x="535.4" y="501.6" type="curve"/>
+      <point x="534.6" y="502.4" type="line"/>
+      <point x="533.2715104612121" y="503.7284895387879"/>
+      <point x="531.0" y="502.78759909868154"/>
+      <point x="531.0" y="500.90883117545684" type="curve"/>
+      <point x="531.0" y="5.999999999999999" type="line"/>
+      <point x="531.0" y="2.6862915010152384"/>
+      <point x="533.6862915010153" y="0.0"/>
+      <point x="537.0" y="0.0" type="curve"/>
+      <point x="545.0" y="0.0" type="line"/>
+      <point x="548.3137084989847" y="0.0"/>
+      <point x="551.0" y="2.6862915010152384"/>
+      <point x="551.0" y="5.999999999999999" type="curve"/>
+      <point x="551.0" y="511.0" type="line"/>
+      <point x="551.0" y="514.3137084989847"/>
+      <point x="548.3137084989847" y="517.0"/>
+      <point x="545.0" y="517.0" type="curve"/>
+      <point x="123.0" y="517.0" type="line"/>
+      <point x="119.68629150101523" y="517.0"/>
+      <point x="117.0" y="514.3137084989847"/>
+      <point x="117.0" y="511.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <real>73.8</real>
+        <key>width</key>
+        <integer>78</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

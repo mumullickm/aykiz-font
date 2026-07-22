@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ef-cy.ss01" format="2">
+  <advance width="892"/>
+  <outline>
+    <contour>
+      <point x="446" y="-3" type="curve" smooth="yes"/>
+      <point x="664" y="-3"/>
+      <point x="824" y="148"/>
+      <point x="824" y="350" type="curve" smooth="yes"/>
+      <point x="824" y="552"/>
+      <point x="664" y="703"/>
+      <point x="446" y="703" type="curve" smooth="yes"/>
+      <point x="228" y="703"/>
+      <point x="68" y="552"/>
+      <point x="68" y="350" type="curve" smooth="yes"/>
+      <point x="68" y="148"/>
+      <point x="228" y="-3"/>
+    </contour>
+    <contour>
+      <point x="446" y="16" type="curve" smooth="yes"/>
+      <point x="240" y="16"/>
+      <point x="88" y="159"/>
+      <point x="88" y="350" type="curve" smooth="yes"/>
+      <point x="88" y="541"/>
+      <point x="240" y="684"/>
+      <point x="446" y="684" type="curve" smooth="yes"/>
+      <point x="652" y="684"/>
+      <point x="804" y="541"/>
+      <point x="804" y="350" type="curve" smooth="yes"/>
+      <point x="804" y="159"/>
+      <point x="652" y="16"/>
+    </contour>
+    <contour>
+      <point x="436.0" y="12.0" type="line"/>
+      <point x="436.0" y="8.686291501015239"/>
+      <point x="438.68629150101526" y="6.0"/>
+      <point x="442.0" y="6.0" type="curve"/>
+      <point x="450.0" y="6.0" type="line"/>
+      <point x="453.31370849898474" y="6.0"/>
+      <point x="456.0" y="8.686291501015239"/>
+      <point x="456.0" y="12.0" type="curve"/>
+      <point x="456.0" y="687.0" type="line"/>
+      <point x="456.0" y="690.3137084989847"/>
+      <point x="453.31370849898474" y="693.0"/>
+      <point x="450.0" y="693.0" type="curve"/>
+      <point x="442.0" y="693.0" type="line"/>
+      <point x="438.68629150101526" y="693.0"/>
+      <point x="436.0" y="690.3137084989847"/>
+      <point x="436.0" y="687.0" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

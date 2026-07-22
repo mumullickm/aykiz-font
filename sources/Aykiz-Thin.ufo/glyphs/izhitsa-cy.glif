@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="izhitsa-cy" format="2">
+  <advance width="533"/>
+  <unicode hex="0475"/>
+  <outline>
+    <contour>
+      <point x="244.42468044483758" y="3.5878423348853588" type="line"/>
+      <point x="245.3818714594824" y="1.4078081737780062"/>
+      <point x="247.53753268152536" y="0.0"/>
+      <point x="249.91844922397533" y="0.0" type="curve"/>
+      <point x="261.8716486695898" y="0.0" type="line"/>
+      <point x="264.3580302505608" y="0.0"/>
+      <point x="266.5868104366293" y="1.5335312743913632"/>
+      <point x="267.4753984643047" y="3.855707986716231" type="curve"/>
+      <point x="416" y="392" type="line" smooth="yes"/>
+      <point x="455" y="494"/>
+      <point x="474" y="511"/>
+      <point x="532" y="494" type="curve"/>
+      <point x="535" y="514" type="line"/>
+      <point x="468" y="532"/>
+      <point x="439" y="508"/>
+      <point x="398" y="401" type="curve" smooth="yes"/>
+      <point x="252.59790999537654" y="18.20674264088924" type="line"/>
+      <point x="251.82625970659933" y="16.175255145945183"/>
+      <point x="253.3268949380474" y="14.0"/>
+      <point x="255.5" y="14.0" type="curve"/>
+      <point x="256.5" y="14.0" type="line"/>
+      <point x="258.62425871397795" y="14.0"/>
+      <point x="260.05162159640594" y="16.178238981770843"/>
+      <point x="259.2036331812379" y="18.125901871403443" type="curve"/>
+      <point x="43.569504749346834" y="513.3951557583495" type="line"/>
+      <point x="42.616371959883764" y="515.5843146309519"/>
+      <point x="40.45595354439454" y="517.0"/>
+      <point x="38.068302254142246" y="517.0" type="curve"/>
+      <point x="28.18730802474901" y="517.0" type="line"/>
+      <point x="23.856990227030607" y="517.0"/>
+      <point x="20.952637700919794" y="512.5528031216937"/>
+      <point x="22.693539245611262" y="508.58784233488535" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <real>73.8</real>
+        <key>width</key>
+        <integer>78</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

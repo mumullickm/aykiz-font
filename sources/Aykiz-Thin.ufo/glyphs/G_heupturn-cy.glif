@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gheupturn-cy" format="2">
+  <advance width="562"/>
+  <unicode hex="0490"/>
+  <outline>
+    <contour>
+      <point x="137.0" y="5.999999999999999" type="line"/>
+      <point x="137.0" y="2.6862915010152384"/>
+      <point x="139.68629150101523" y="0.0"/>
+      <point x="143.0" y="0.0" type="curve"/>
+      <point x="151.0" y="0.0" type="line"/>
+      <point x="154.31370849898477" y="0.0"/>
+      <point x="157.0" y="2.6862915010152384"/>
+      <point x="157.0" y="5.999999999999999" type="curve"/>
+      <point x="157.0" y="675.0" type="line"/>
+      <point x="157.0" y="678.3137084989847"/>
+      <point x="159.68629150101523" y="681.0"/>
+      <point x="163.0" y="681.0" type="curve"/>
+      <point x="547.0" y="681.0" type="line"/>
+      <point x="550.3137084989847" y="681.0"/>
+      <point x="553.0" y="683.6862915010153"/>
+      <point x="553.0" y="687.0" type="curve"/>
+      <point x="553.0" y="839.0" type="line"/>
+      <point x="553.0" y="842.3137084989847"/>
+      <point x="550.3137084989847" y="845.0"/>
+      <point x="547.0" y="845.0" type="curve"/>
+      <point x="539.0" y="845.0" type="line"/>
+      <point x="535.6862915010153" y="845.0"/>
+      <point x="533.0" y="842.3137084989847"/>
+      <point x="533.0" y="839.0" type="curve"/>
+      <point x="533.0" y="706.0" type="line"/>
+      <point x="533.0" y="702.6862915010153"/>
+      <point x="530.3137084989847" y="700.0"/>
+      <point x="527.0" y="700.0" type="curve"/>
+      <point x="143.0" y="700.0" type="line"/>
+      <point x="139.68629150101523" y="700.0"/>
+      <point x="137.0" y="697.3137084989847"/>
+      <point x="137.0" y="694.0" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="daggerdbl" format="2">
+  <advance width="567"/>
+  <unicode hex="2021"/>
+  <outline>
+    <contour>
+      <point x="509.0" y="370.0" type="line"/>
+      <point x="524.4639729952622" y="370.0"/>
+      <point x="537.0" y="382.5360270047378"/>
+      <point x="537.0" y="398.0" type="curve"/>
+      <point x="537.0" y="438.0" type="line"/>
+      <point x="537.0" y="453.4639729952622"/>
+      <point x="524.4639729952622" y="466.0"/>
+      <point x="509.0" y="466.0" type="curve"/>
+      <point x="366.0" y="466.0" type="line"/>
+      <point x="350.5360270047378" y="466.0"/>
+      <point x="338.0" y="478.5360270047378"/>
+      <point x="338.0" y="494.0" type="curve"/>
+      <point x="338.0" y="672.0" type="line"/>
+      <point x="338.0" y="687.4639729952622"/>
+      <point x="325.4639729952622" y="700.0"/>
+      <point x="310.0" y="700.0" type="curve"/>
+      <point x="256.0" y="700.0" type="line"/>
+      <point x="240.53602700473778" y="700.0"/>
+      <point x="228.0" y="687.4639729952622"/>
+      <point x="228.0" y="672.0" type="curve"/>
+      <point x="228.0" y="494.0" type="line"/>
+      <point x="228.0" y="478.5360270047378"/>
+      <point x="215.46397299526222" y="466.0"/>
+      <point x="200.0" y="466.0" type="curve"/>
+      <point x="58.0" y="466.0" type="line"/>
+      <point x="42.536027004737775" y="466.0"/>
+      <point x="30.0" y="453.4639729952622"/>
+      <point x="30.0" y="438.0" type="curve"/>
+      <point x="30.0" y="398.0" type="line"/>
+      <point x="30.0" y="382.5360270047378"/>
+      <point x="42.536027004737775" y="370.0"/>
+      <point x="58.0" y="370.0" type="curve"/>
+      <point x="200.0" y="370.0" type="line"/>
+      <point x="215.46397299526222" y="370.0"/>
+      <point x="228.0" y="357.4639729952622"/>
+      <point x="228.0" y="342.0" type="curve"/>
+      <point x="228.0" y="164.0" type="line"/>
+      <point x="228.0" y="148.53602700473778"/>
+      <point x="215.46397299526222" y="136.0"/>
+      <point x="200.0" y="136.0" type="curve"/>
+      <point x="58.0" y="136.0" type="line"/>
+      <point x="42.536027004737775" y="136.0"/>
+      <point x="30.0" y="123.46397299526222"/>
+      <point x="30.0" y="108.0" type="curve"/>
+      <point x="30.0" y="68.0" type="line"/>
+      <point x="30.0" y="52.536027004737775"/>
+      <point x="42.536027004737775" y="40.0"/>
+      <point x="58.0" y="40.0" type="curve"/>
+      <point x="200.0" y="40.0" type="line"/>
+      <point x="215.46397299526222" y="40.0"/>
+      <point x="228.0" y="27.46397299526222"/>
+      <point x="228.0" y="12.000000000000004" type="curve"/>
+      <point x="228.0" y="-166.0" type="line"/>
+      <point x="228.0" y="-181.46397299526222"/>
+      <point x="240.53602700473778" y="-194.0"/>
+      <point x="256.0" y="-194.0" type="curve"/>
+      <point x="310.0" y="-194.0" type="line"/>
+      <point x="325.4639729952622" y="-194.0"/>
+      <point x="338.0" y="-181.46397299526222"/>
+      <point x="338.0" y="-166.0" type="curve"/>
+      <point x="338.0" y="12.000000000000004" type="line"/>
+      <point x="338.0" y="27.46397299526222"/>
+      <point x="350.5360270047378" y="40.0"/>
+      <point x="366.0" y="40.0" type="curve"/>
+      <point x="509.0" y="40.0" type="line"/>
+      <point x="524.4639729952622" y="40.0"/>
+      <point x="537.0" y="52.536027004737775"/>
+      <point x="537.0" y="68.0" type="curve"/>
+      <point x="537.0" y="108.0" type="line"/>
+      <point x="537.0" y="123.46397299526222"/>
+      <point x="524.4639729952622" y="136.0"/>
+      <point x="509.0" y="136.0" type="curve"/>
+      <point x="366.0" y="136.0" type="line"/>
+      <point x="350.5360270047378" y="136.0"/>
+      <point x="338.0" y="148.53602700473778"/>
+      <point x="338.0" y="164.0" type="curve"/>
+      <point x="338.0" y="342.0" type="line"/>
+      <point x="338.0" y="357.4639729952622"/>
+      <point x="350.5360270047378" y="370.0"/>
+      <point x="366.0" y="370.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>dagger</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|</string>
+    </dict>
+  </lib>
+</glyph>

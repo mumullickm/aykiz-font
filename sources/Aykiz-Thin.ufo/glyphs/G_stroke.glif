@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gstroke" format="2">
+  <advance width="804"/>
+  <unicode hex="01E4"/>
+  <guideline x="431" y="328" angle="90"/>
+  <outline>
+    <contour>
+      <point x="420.0" y="230.0" type="line"/>
+      <point x="420.0" y="226.68629150101523"/>
+      <point x="422.68629150101526" y="224.0"/>
+      <point x="426.0" y="224.0" type="curve"/>
+      <point x="774.0" y="224.0" type="line"/>
+      <point x="777.3137084989847" y="224.0"/>
+      <point x="780.0" y="226.68629150101523"/>
+      <point x="780.0" y="230.0" type="curve"/>
+      <point x="780.0" y="237.0" type="line"/>
+      <point x="780.0" y="240.31370849898477"/>
+      <point x="777.3137084989847" y="243.0"/>
+      <point x="774.0" y="243.0" type="curve"/>
+      <point x="426.0" y="243.0" type="line"/>
+      <point x="422.68629150101526" y="243.0"/>
+      <point x="420.0" y="240.31370849898477"/>
+      <point x="420.0" y="237.0" type="curve"/>
+    </contour>
+    <component base="G"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>G</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=O</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

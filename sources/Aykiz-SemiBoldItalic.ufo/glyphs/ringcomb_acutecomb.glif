@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringcomb_acutecomb" format="2">
+  <anchor x="353" y="532" name="_top"/>
+  <anchor x="401" y="773" name="top"/>
+  <outline>
+    <contour>
+      <point x="387" y="594" type="curve" smooth="yes"/>
+      <point x="452" y="594"/>
+      <point x="501" y="643"/>
+      <point x="501" y="705" type="curve" smooth="yes"/>
+      <point x="501" y="767"/>
+      <point x="452" y="818"/>
+      <point x="387" y="818" type="curve" smooth="yes"/>
+      <point x="323" y="818"/>
+      <point x="274" y="767"/>
+      <point x="274" y="705" type="curve" smooth="yes"/>
+      <point x="274" y="643"/>
+      <point x="323" y="594"/>
+    </contour>
+    <contour>
+      <point x="387" y="640" type="curve" smooth="yes"/>
+      <point x="350" y="640"/>
+      <point x="323" y="668"/>
+      <point x="323" y="705" type="curve" smooth="yes"/>
+      <point x="323" y="743"/>
+      <point x="351" y="771"/>
+      <point x="387" y="771" type="curve" smooth="yes"/>
+      <point x="424" y="771"/>
+      <point x="452" y="742"/>
+      <point x="452" y="705" type="curve" smooth="yes"/>
+      <point x="452" y="668"/>
+      <point x="425" y="640"/>
+    </contour>
+    <contour>
+      <point x="457.48183139643686" y="764.1850602155582" type="line"/>
+      <point x="466.52086496305805" y="760.956833941765"/>
+      <point x="476.5835295150465" y="762.5834867117636"/>
+      <point x="484.14506557151634" y="768.4952330831856" type="curve"/>
+      <point x="556.0332675013639" y="824.6987364101573" type="line"/>
+      <point x="569.3099911471813" y="835.0787203514327"/>
+      <point x="569.4647791326115" y="855.1161431561382"/>
+      <point x="556.35" y="865.7" type="curve"/>
+      <point x="544.855426726755" y="874.9763222906889" type="line"/>
+      <point x="533.6038459261357" y="884.0565453929431"/>
+      <point x="517.288979746036" y="883.0767498307893"/>
+      <point x="507.20498147508414" y="872.7152103230222" type="curve"/>
+      <point x="434.66284519541773" y="798.1765014851999" type="line"/>
+      <point x="425.9324085677958" y="789.2057776109461"/>
+      <point x="429.41149719068073" y="774.2101795747569"/>
+      <point x="441.2" y="770.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

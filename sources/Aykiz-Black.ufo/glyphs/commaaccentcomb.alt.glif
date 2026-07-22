@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaaccentcomb.alt" format="2">
+  <anchor x="300" y="547" name="_top"/>
+  <outline>
+    <contour>
+      <point x="347.9995858067553" y="774.7070821245733" type="line"/>
+      <point x="354.8934631850994" y="795.5323367049878"/>
+      <point x="339.3866536565339" y="817.0"/>
+      <point x="317.45" y="817.0" type="curve"/>
+      <point x="295.8390419802055" y="817.0" type="line"/>
+      <point x="275.46579655629426" y="817.0"/>
+      <point x="256.5864005837635" y="806.3106676396059"/>
+      <point x="246.10445228887792" y="788.8407538147966" type="curve"/>
+      <point x="224" y="752" type="line" smooth="yes"/>
+      <point x="203" y="716"/>
+      <point x="199" y="691"/>
+      <point x="199" y="672" type="curve" smooth="yes"/>
+      <point x="199" y="627"/>
+      <point x="233" y="597"/>
+      <point x="289" y="597" type="curve" smooth="yes"/>
+      <point x="345" y="597"/>
+      <point x="379" y="627"/>
+      <point x="379" y="672" type="curve" smooth="yes"/>
+      <point x="379" y="718"/>
+      <point x="349" y="745"/>
+      <point x="289" y="745" type="curve"/>
+      <point x="302.75" y="704.85" type="line"/>
+      <point x="306.3788876883349" y="694.2536479500621"/>
+      <point x="321.39223805415935" y="694.3307191219396"/>
+      <point x="324.91214440994406" y="704.9637695717059" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

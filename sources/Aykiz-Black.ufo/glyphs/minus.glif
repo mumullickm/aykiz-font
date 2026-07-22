@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="minus" format="2">
+  <advance width="620"/>
+  <unicode hex="2212"/>
+  <outline>
+    <contour>
+      <point x="55.0" y="323.0" type="line"/>
+      <point x="55.0" y="290.96748450981397"/>
+      <point x="80.96748450981397" y="265.0"/>
+      <point x="113.0" y="265.0" type="curve"/>
+      <point x="507.0" y="265.0" type="line"/>
+      <point x="539.032515490186" y="265.0"/>
+      <point x="565.0" y="290.96748450981397"/>
+      <point x="565.0" y="323.0" type="curve"/>
+      <point x="565.0" y="377.0" type="line"/>
+      <point x="565.0" y="409.03251549018603"/>
+      <point x="539.032515490186" y="435.0"/>
+      <point x="507.0" y="435.0" type="curve"/>
+      <point x="113.0" y="435.0" type="line"/>
+      <point x="80.96748450981397" y="435.0"/>
+      <point x="55.0" y="409.03251549018603"/>
+      <point x="55.0" y="377.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>hyphen.case</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>hyphen.case</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

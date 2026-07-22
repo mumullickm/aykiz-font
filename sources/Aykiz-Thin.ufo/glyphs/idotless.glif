@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="idotless" format="2">
+  <advance width="250"/>
+  <unicode hex="0131"/>
+  <anchor x="125" y="0" name="bottom"/>
+  <anchor x="135" y="0" name="ogonek"/>
+  <anchor x="125" y="517" name="top"/>
+  <outline>
+    <contour>
+      <point x="115.0" y="5.999999999999999" type="line"/>
+      <point x="115.0" y="2.6862915010152384"/>
+      <point x="117.68629150101523" y="0.0"/>
+      <point x="121.0" y="0.0" type="curve"/>
+      <point x="129.0" y="0.0" type="line"/>
+      <point x="132.31370849898477" y="0.0"/>
+      <point x="135.0" y="2.6862915010152384"/>
+      <point x="135.0" y="5.999999999999999" type="curve"/>
+      <point x="135.0" y="511.0" type="line"/>
+      <point x="135.0" y="514.3137084989847"/>
+      <point x="132.31370849898477" y="517.0"/>
+      <point x="129.0" y="517.0" type="curve"/>
+      <point x="121.0" y="517.0" type="line"/>
+      <point x="117.68629150101523" y="517.0"/>
+      <point x="115.0" y="514.3137084989847"/>
+      <point x="115.0" y="511.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|n</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="L" format="2">
+  <advance width="580"/>
+  <unicode hex="004C"/>
+  <guideline x="360" y="31" angle="90"/>
+  <anchor x="310" y="0" name="bottom"/>
+  <anchor x="163" y="360" name="center"/>
+  <anchor x="453" y="360" name="dot"/>
+  <anchor x="231" y="700" name="top"/>
+  <anchor x="534" y="700" name="topright"/>
+  <outline>
+    <contour>
+      <point x="82.43533936216582" y="7.176696810829101" type="line"/>
+      <point x="81.692789048007" y="3.4639452400350192"/>
+      <point x="84.53254487459108" y="0.0"/>
+      <point x="88.31882341631135" y="0.0" type="curve"/>
+      <point x="513.1316354192797" y="0.0" type="line"/>
+      <point x="515.9689586955285" y="0.0"/>
+      <point x="518.4184157961663" y="1.9874750317898047"/>
+      <point x="519.0029341292002" y="4.763937113700948" type="curve"/>
+      <point x="520.4766183397265" y="11.763937113700951" type="line"/>
+      <point x="521.2617314074123" y="15.493224185208533"/>
+      <point x="518.4163542125361" y="19.0"/>
+      <point x="514.605319629806" y="19.0" type="curve"/>
+      <point x="112.31671596666524" y="19.0" type="line"/>
+      <point x="108.53112873112408" y="19.0"/>
+      <point x="105.69153344474293" y="22.462752028455395"/>
+      <point x="106.43289984078912" y="26.175035232186715" type="curve"/>
+      <point x="239.56710015921087" y="692.8249647678133" type="line"/>
+      <point x="240.30846655525707" y="696.5372479715446"/>
+      <point x="237.46887126887592" y="700.0"/>
+      <point x="233.68328403333476" y="700.0" type="curve"/>
+      <point x="225.91882341631134" y="700.0" type="line"/>
+      <point x="223.0587372960899" y="700.0"/>
+      <point x="220.596248398226" y="697.9812419911301"/>
+      <point x="220.03533936216581" y="695.1766968108291" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

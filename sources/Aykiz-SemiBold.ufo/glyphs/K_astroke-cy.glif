@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Kastroke-cy" format="2">
+  <advance width="738"/>
+  <unicode hex="049E"/>
+  <outline>
+    <contour>
+      <point x="34.0" y="563.0" type="line"/>
+      <point x="34.0" y="547.5360270047378"/>
+      <point x="46.536027004737775" y="535.0"/>
+      <point x="62.0" y="535.0" type="curve"/>
+      <point x="371.0" y="535.0" type="line"/>
+      <point x="386.4639729952622" y="535.0"/>
+      <point x="399.0" y="547.5360270047378"/>
+      <point x="399.0" y="563.0" type="curve"/>
+      <point x="399.0" y="587.0" type="line"/>
+      <point x="399.0" y="602.4639729952622"/>
+      <point x="386.4639729952622" y="615.0"/>
+      <point x="371.0" y="615.0" type="curve"/>
+      <point x="62.0" y="615.0" type="line"/>
+      <point x="46.536027004737775" y="615.0"/>
+      <point x="34.0" y="602.4639729952622"/>
+      <point x="34.0" y="587.0" type="curve"/>
+    </contour>
+    <component base="Ka-cy" xOffset="22"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

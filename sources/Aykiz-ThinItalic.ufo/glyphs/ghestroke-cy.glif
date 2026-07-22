@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ghestroke-cy" format="2">
+  <advance width="475"/>
+  <unicode hex="0493"/>
+  <outline>
+    <contour>
+      <point x="50.523381660273486" y="239.23606288629904" type="line"/>
+      <point x="49.73826859258768" y="235.50677581479147"/>
+      <point x="52.5836457874639" y="232.0"/>
+      <point x="56.39468037019398" y="232.0" type="curve"/>
+      <point x="383.1316354192797" y="232.0" type="line"/>
+      <point x="385.9689586955285" y="232.0"/>
+      <point x="388.4184157961663" y="233.9874750317898"/>
+      <point x="389.0029341292002" y="236.76393711370093" type="curve"/>
+      <point x="390.47661833972654" y="243.76393711370096" type="line"/>
+      <point x="391.2617314074123" y="247.49322418520853"/>
+      <point x="388.4163542125361" y="251.0"/>
+      <point x="384.60531962980605" y="251.0" type="curve"/>
+      <point x="57.868364580720296" y="251.0" type="line"/>
+      <point x="55.031041304471515" y="251.0"/>
+      <point x="52.58158420383373" y="249.0125249682102"/>
+      <point x="51.9970658707998" y="246.23606288629907" type="curve"/>
+    </contour>
+    <component base="ge-cy" xOffset="13"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <real>73.8</real>
+        <key>width</key>
+        <integer>78</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

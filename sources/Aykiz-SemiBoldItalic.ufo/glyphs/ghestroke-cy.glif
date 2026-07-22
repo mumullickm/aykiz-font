@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ghestroke-cy" format="2">
+  <advance width="522"/>
+  <unicode hex="0493"/>
+  <outline>
+    <contour>
+      <point x="38.00187029422012" y="221.69650079093432" type="line"/>
+      <point x="34.38971094053414" y="204.31298390132054"/>
+      <point x="47.66144003455642" y="188.0"/>
+      <point x="65.41628035059165" y="188.0" type="curve"/>
+      <point x="404.220083285772" y="188.0" type="line"/>
+      <point x="417.488455743197" y="188.0"/>
+      <point x="428.93508997792446" y="197.31262051876152"/>
+      <point x="431.6344933421435" y="210.30349920906565" type="curve"/>
+      <point x="435.9981297057799" y="231.30349920906568" type="line"/>
+      <point x="439.61028905946586" y="248.68701609867946"/>
+      <point x="426.3385599654436" y="265.0"/>
+      <point x="408.58371964940835" y="265.0" type="curve"/>
+      <point x="69.77991671422802" y="265.0" type="line"/>
+      <point x="56.511544256802985" y="265.0"/>
+      <point x="45.06491002207553" y="255.68737948123848"/>
+      <point x="42.365506657856486" y="242.69650079093435" type="curve"/>
+    </contour>
+    <component base="ge-cy" xOffset="13"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

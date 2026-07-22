@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecomb" format="2">
+  <unicode hex="0301"/>
+  <anchor x="351" y="517" name="_top"/>
+  <anchor x="380" y="660" name="top"/>
+  <outline>
+    <contour>
+      <point x="334.6656803950584" y="615.4422687069501" type="line"/>
+      <point x="331.00191534249427" y="612.7908597873313"/>
+      <point x="332.8774848126928" y="607.0"/>
+      <point x="337.4" y="607.0" type="curve"/>
+      <point x="353.15547779697516" y="607.0" type="line"/>
+      <point x="354.3574026027535" y="607.0"/>
+      <point x="355.53162484453406" y="607.3609798327084"/>
+      <point x="356.5259847512992" y="608.0361624854501" type="curve"/>
+      <point x="501.3639118291677" y="706.3829030938793" type="line"/>
+      <point x="506.0987677505966" y="709.597928719541"/>
+      <point x="503.8232202797334" y="717.0"/>
+      <point x="498.1" y="717.0" type="curve"/>
+      <point x="476.94330673414163" y="717.0" type="line"/>
+      <point x="475.6800715889461" y="717.0"/>
+      <point x="474.4490626526108" y="716.6012953407052"/>
+      <point x="473.42569477291244" y="715.8607001646077" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

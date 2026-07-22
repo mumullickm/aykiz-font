@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Schwa.ss01" format="2">
+  <advance width="816"/>
+  <anchor x="356" y="0" name="bottom"/>
+  <anchor x="496" y="700" name="top"/>
+  <outline>
+    <contour>
+      <point x="376" y="-3" type="curve" smooth="yes"/>
+      <point x="624" y="-3"/>
+      <point x="782" y="196"/>
+      <point x="782" y="420" type="curve" smooth="yes"/>
+      <point x="782" y="589"/>
+      <point x="671" y="703"/>
+      <point x="477" y="703" type="curve" smooth="yes"/>
+      <point x="372" y="703"/>
+      <point x="277" y="668"/>
+      <point x="222" y="616" type="curve"/>
+      <point x="234" y="602" type="line"/>
+      <point x="290" y="653"/>
+      <point x="372" y="684"/>
+      <point x="475" y="684" type="curve" smooth="yes"/>
+      <point x="661" y="684"/>
+      <point x="762" y="577"/>
+      <point x="762" y="420" type="curve" smooth="yes"/>
+      <point x="762" y="201"/>
+      <point x="607" y="16"/>
+      <point x="378" y="16" type="curve" smooth="yes"/>
+      <point x="233" y="16"/>
+      <point x="132" y="84"/>
+      <point x="102" y="191" type="curve"/>
+      <point x="98.15" y="187.15" type="line"/>
+      <point x="97.42939799720637" y="186.42939799720637"/>
+      <point x="98.20545659864375" y="185.23652628434328"/>
+      <point x="99.15625117718005" y="185.6033016410487" type="curve"/>
+      <point x="764.1212520430765" y="442.1179904023737" type="line"/>
+      <point x="766.9173158035389" y="443.1965906660536"/>
+      <point x="768.4887218192592" y="446.1729322681481"/>
+      <point x="767.8023160765579" y="449.0901566746291" type="curve"/>
+      <point x="766.5767839199356" y="454.2986683402737" type="line"/>
+      <point x="765.74317033284" y="457.8415260854299"/>
+      <point x="761.9726845581465" y="459.8322582356751"/>
+      <point x="758.5769471703132" y="458.5224032025226" type="curve"/>
+      <point x="78" y="196" type="line"/>
+      <point x="108" y="76"/>
+      <point x="221" y="-3"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>Schwa</string>
+    </dict>
+  </lib>
+</glyph>

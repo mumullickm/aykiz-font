@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="three.tosf" format="2">
+  <advance width="700"/>
+  <outline>
+    <contour>
+      <point x="332" y="-103" type="curve" smooth="yes"/>
+      <point x="490" y="-103"/>
+      <point x="573" y="-24"/>
+      <point x="573" y="92" type="curve" smooth="yes"/>
+      <point x="573" y="208"/>
+      <point x="490" y="287"/>
+      <point x="328" y="287" type="curve" smooth="yes"/>
+      <point x="306.27604945017623" y="287.0" type="line"/>
+      <point x="304.6342837076474" y="287.0"/>
+      <point x="303.4489722634692" y="285.4285970778578"/>
+      <point x="303.9" y="283.85" type="curve"/>
+      <point x="304.1" y="283.15" type="line"/>
+      <point x="304.47633716373645" y="281.8328199269224"/>
+      <point x="306.1847895492828" y="281.49322649806305"/>
+      <point x="307.03625409426206" y="282.56635330061954" type="curve"/>
+      <point x="545.7002098221958" y="583.3618346932633" type="line"/>
+      <point x="546.5419080331213" y="584.4226526863719"/>
+      <point x="547.0" y="585.7370062215969"/>
+      <point x="547.0" y="587.0911815030055" type="curve"/>
+      <point x="547.0" y="594.0" type="line"/>
+      <point x="547.0" y="597.3137084989847"/>
+      <point x="544.3137084989847" y="600.0"/>
+      <point x="541.0" y="600.0" type="curve"/>
+      <point x="93.0" y="600.0" type="line"/>
+      <point x="89.68629150101523" y="600.0"/>
+      <point x="87.0" y="597.3137084989847"/>
+      <point x="87.0" y="594.0" type="curve"/>
+      <point x="87.0" y="587.0" type="line"/>
+      <point x="87.0" y="583.6862915010153"/>
+      <point x="89.68629150101523" y="581.0"/>
+      <point x="93.0" y="581.0" type="curve"/>
+      <point x="523.7239505498237" y="581.0" type="line"/>
+      <point x="525.3657162923527" y="581.0"/>
+      <point x="526.5510277365308" y="582.5714029221422"/>
+      <point x="526.1" y="584.15" type="curve"/>
+      <point x="525.9" y="584.85" type="line"/>
+      <point x="525.5236628362635" y="586.1671800730776"/>
+      <point x="523.8152104507171" y="586.5067735019369"/>
+      <point x="522.9637459057379" y="585.4336466993805" type="curve"/>
+      <point x="284.29979017780425" y="284.63816530673677" type="line"/>
+      <point x="283.4580919668787" y="283.57734731362814"/>
+      <point x="283.0" y="282.26299377840314"/>
+      <point x="283.0" y="280.9088184969945" type="curve"/>
+      <point x="283.0" y="274.0" type="line"/>
+      <point x="283.0" y="270.68629150101526"/>
+      <point x="285.68629150101526" y="268.0"/>
+      <point x="289.0" y="268.0" type="curve"/>
+      <point x="329" y="268" type="line" smooth="yes"/>
+      <point x="482" y="268"/>
+      <point x="553" y="199"/>
+      <point x="553" y="92" type="curve" smooth="yes"/>
+      <point x="553" y="-15"/>
+      <point x="482" y="-84"/>
+      <point x="332" y="-84" type="curve" smooth="yes"/>
+      <point x="219" y="-84"/>
+      <point x="133" y="-43"/>
+      <point x="94" y="9" type="curve"/>
+      <point x="81" y="-4" type="line"/>
+      <point x="123" y="-62"/>
+      <point x="217" y="-103"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>three.tf</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

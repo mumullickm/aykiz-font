@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ustraitstroke-cy" format="2">
+  <advance width="676"/>
+  <unicode hex="04B0"/>
+  <outline>
+    <contour>
+      <point x="119.08" y="241.0" type="line"/>
+      <point x="119.08" y="225.53602700473778"/>
+      <point x="131.6160270047378" y="213.0"/>
+      <point x="147.07999999999998" y="213.0" type="curve"/>
+      <point x="523.4" y="213.0" type="line"/>
+      <point x="538.8639729952622" y="213.0"/>
+      <point x="551.4" y="225.53602700473778"/>
+      <point x="551.4" y="241.0" type="curve"/>
+      <point x="551.4" y="262.0" type="line"/>
+      <point x="551.4" y="277.4639729952622"/>
+      <point x="538.8639729952622" y="290.0"/>
+      <point x="523.4" y="290.0" type="curve"/>
+      <point x="147.07999999999998" y="290.0" type="line"/>
+      <point x="131.6160270047378" y="290.0"/>
+      <point x="119.08" y="277.4639729952622"/>
+      <point x="119.08" y="262.0" type="curve"/>
+    </contour>
+    <component base="Ustrait-cy"/>
+  </outline>
+</glyph>

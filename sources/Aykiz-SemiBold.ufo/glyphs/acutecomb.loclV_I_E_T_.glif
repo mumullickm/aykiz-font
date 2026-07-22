@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecomb.loclVIET" format="2">
+  <anchor x="300" y="532" name="_top"/>
+  <anchor x="300" y="679" name="top"/>
+  <outline>
+    <contour>
+      <point x="255.1223833309205" y="634.8799489918608" type="line"/>
+      <point x="244.78381959255645" y="624.6305108029654"/>
+      <point x="252.04194781709435" y="607.0"/>
+      <point x="266.6" y="607.0" type="curve"/>
+      <point x="305.50177140867805" y="607.0" type="line"/>
+      <point x="311.6615436990221" y="607.0"/>
+      <point x="317.64942015735113" y="609.0312221206359"/>
+      <point x="322.53785463107783" y="612.7790218838263" type="curve"/>
+      <point x="421.4310107650738" y="688.5971082532233" type="line"/>
+      <point x="435.55530654657434" y="699.4257350190403"/>
+      <point x="427.89760907978047" y="722.0"/>
+      <point x="410.1" y="722.0" type="curve"/>
+      <point x="354.52703926495866" y="722.0" type="line"/>
+      <point x="347.14297093539284" y="722.0"/>
+      <point x="340.0578228087379" y="719.0831864052143"/>
+      <point x="334.81394401818835" y="713.8845134663075" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

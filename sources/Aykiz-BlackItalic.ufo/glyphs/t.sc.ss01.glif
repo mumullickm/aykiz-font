@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="t.sc.ss01" format="2">
+  <advance width="598"/>
+  <anchor x="244" y="0" name="bottom"/>
+  <anchor x="292" y="243" name="center"/>
+  <anchor x="365" y="583" name="top"/>
+  <outline>
+    <contour>
+      <point x="142.9401429314935" y="69.41909560834642" type="line"/>
+      <point x="135.73052899816528" y="33.516674708035254"/>
+      <point x="163.18577926681493" y="0.0"/>
+      <point x="199.80493217305707" y="0.0" type="curve"/>
+      <point x="311.4891854740018" y="0.0" type="line"/>
+      <point x="339.1196777104075" y="0.0"/>
+      <point x="362.9140569129241" y="19.491212707793732"/>
+      <point x="368.3539747155653" y="46.580904391653554" type="curve"/>
+      <point x="444.0598570685065" y="423.5809043916536" type="line"/>
+      <point x="451.2694710018347" y="459.4833252919648"/>
+      <point x="423.81422073318504" y="493.0"/>
+      <point x="387.19506782694293" y="493.0" type="curve"/>
+      <point x="275.5108145259982" y="493.0" type="line"/>
+      <point x="247.8803222895925" y="493.0"/>
+      <point x="224.0859430870759" y="473.50878729220625"/>
+      <point x="218.64602528443467" y="446.4190956083464" type="curve"/>
+    </contour>
+    <contour>
+      <point x="79" y="361" type="line"/>
+      <point x="148" y="400"/>
+      <point x="227" y="420"/>
+      <point x="310" y="420" type="curve" smooth="yes"/>
+      <point x="410" y="420"/>
+      <point x="482" y="399"/>
+      <point x="562" y="357" type="curve"/>
+      <point x="660" y="517" type="line"/>
+      <point x="579" y="567"/>
+      <point x="465" y="597"/>
+      <point x="346" y="597" type="curve" smooth="yes"/>
+      <point x="234" y="597"/>
+      <point x="106" y="571"/>
+      <point x="23" y="521" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

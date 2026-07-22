@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ge-cy" format="2">
+  <advance width="543"/>
+  <unicode hex="0433"/>
+  <anchor x="-2" y="0" name="bottomleft"/>
+  <anchor x="422" y="0" name="bottomright"/>
+  <anchor x="349" y="547" name="top"/>
+  <outline>
+    <contour>
+      <point x="11.963102723674067" y="69.4347017259065" type="line"/>
+      <point x="4.742354953928577" y="33.52789236180847"/>
+      <point x="32.19910695544227" y="0.0"/>
+      <point x="68.82475585159102" y="0.0" type="curve"/>
+      <point x="175.13857408229066" y="0.0" type="line"/>
+      <point x="202.92643782495443" y="0.0"/>
+      <point x="226.8100288210809" y="19.70866760534443"/>
+      <point x="232.08425772039573" y="46.9914072203186" type="curve"/>
+      <point x="297.56969980824294" y="385.73708913152836" type="line"/>
+      <point x="299.7331156080728" y="396.9280918491666"/>
+      <point x="286.68110674334315" y="404.6671228220771"/>
+      <point x="277.9" y="397.4" type="curve"/>
+      <point x="272.1" y="392.6" type="line"/>
+      <point x="263.2929284268911" y="385.31138904294437"/>
+      <point x="268.4468534524571" y="371.0"/>
+      <point x="279.8787544044937" y="371.0" type="curve"/>
+      <point x="502.6627422169379" y="371.0" type="line"/>
+      <point x="530.2150633602843" y="371.0"/>
+      <point x="553.9648268350396" y="390.3835978601939"/>
+      <point x="559.4862082893267" y="417.377018303375" type="curve"/>
+      <point x="571.758935562054" y="477.37701830337505" type="line"/>
+      <point x="579.1142953445471" y="513.336555017786"/>
+      <point x="551.6395509826681" y="547.0"/>
+      <point x="514.9354694896651" y="547.0" type="curve"/>
+      <point x="155.49751636347403" y="547.0" type="line"/>
+      <point x="127.87300736716158" y="547.0"/>
+      <point x="104.08203600620284" y="527.5170335944814"/>
+      <point x="98.63586323555707" y="500.4347017259065" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <real>78.2</real>
+        <key>weight</key>
+        <integer>-7</integer>
+        <key>width</key>
+        <integer>85</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

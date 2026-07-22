@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tetse-cy" format="2">
+  <advance width="1017"/>
+  <unicode hex="04B4"/>
+  <anchor x="336" y="0" name="bottom"/>
+  <anchor x="336" y="315" name="center"/>
+  <anchor x="336" y="700" name="top"/>
+  <outline>
+    <contour>
+      <point x="222.0" y="57.99999999999999" type="line"/>
+      <point x="222.0" y="25.96748450981397"/>
+      <point x="247.96748450981397" y="0.0"/>
+      <point x="280.0" y="0.0" type="curve"/>
+      <point x="396.0" y="0.0" type="line"/>
+      <point x="428.03251549018603" y="0.0"/>
+      <point x="454.0" y="25.96748450981397"/>
+      <point x="454.0" y="57.99999999999999" type="curve"/>
+      <point x="454.0" y="535.5437987435374" type="line"/>
+      <point x="454.0" y="547.5209442540948"/>
+      <point x="439.51912080977314" y="553.5191208097732"/>
+      <point x="431.05" y="545.05" type="curve"/>
+      <point x="425.95" y="539.95" type="line"/>
+      <point x="417.48087919022686" y="531.4808791902268"/>
+      <point x="423.47905574590516" y="517.0"/>
+      <point x="435.4562012564625" y="517.0" type="curve"/>
+      <point x="541.0" y="517.0" type="line"/>
+      <point x="573.032515490186" y="517.0"/>
+      <point x="599.0" y="542.967484509814"/>
+      <point x="599.0" y="575.0" type="curve"/>
+      <point x="599.0" y="642.0" type="line"/>
+      <point x="599.0" y="674.032515490186"/>
+      <point x="573.032515490186" y="700.0"/>
+      <point x="541.0" y="700.0" type="curve"/>
+      <point x="75.0" y="700.0" type="line"/>
+      <point x="42.96748450981397" y="700.0"/>
+      <point x="17.0" y="674.032515490186"/>
+      <point x="17.0" y="642.0" type="curve"/>
+      <point x="17.0" y="575.0" type="line"/>
+      <point x="17.0" y="542.967484509814"/>
+      <point x="42.96748450981397" y="517.0"/>
+      <point x="75.0" y="517.0" type="curve"/>
+      <point x="240.54379874353748" y="517.0" type="line"/>
+      <point x="252.52094425409487" y="517.0"/>
+      <point x="258.51912080977314" y="531.4808791902268"/>
+      <point x="250.05" y="539.95" type="curve"/>
+      <point x="244.95" y="545.05" type="line"/>
+      <point x="236.48087919022686" y="553.5191208097732"/>
+      <point x="222.0" y="547.5209442540948"/>
+      <point x="222.0" y="535.5437987435374" type="curve"/>
+    </contour>
+    <component base="Tse-cy" xOffset="160"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Tse-cy</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

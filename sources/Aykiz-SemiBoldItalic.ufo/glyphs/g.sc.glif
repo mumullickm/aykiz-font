@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="g.sc" format="2">
+  <advance width="655"/>
+  <anchor x="289" y="0" name="bottom"/>
+  <anchor x="409" y="571" name="top"/>
+  <outline>
+    <contour>
+      <point x="321" y="-9" type="curve" smooth="yes"/>
+      <point x="407" y="-9"/>
+      <point x="482" y="14"/>
+      <point x="539" y="55" type="curve"/>
+      <point x="497" y="146" type="line"/>
+      <point x="448" y="107"/>
+      <point x="397" y="88"/>
+      <point x="335" y="88" type="curve" smooth="yes"/>
+      <point x="216" y="88"/>
+      <point x="155" y="151"/>
+      <point x="155" y="243" type="curve" smooth="yes"/>
+      <point x="155" y="373"/>
+      <point x="243" y="484"/>
+      <point x="391" y="484" type="curve" smooth="yes"/>
+      <point x="455" y="484"/>
+      <point x="517" y="463"/>
+      <point x="554" y="417" type="curve"/>
+      <point x="635" y="486" type="line"/>
+      <point x="588" y="546"/>
+      <point x="508" y="579"/>
+      <point x="402" y="579" type="curve" smooth="yes"/>
+      <point x="186" y="579"/>
+      <point x="43" y="430"/>
+      <point x="43" y="236" type="curve" smooth="yes"/>
+      <point x="43" y="91"/>
+      <point x="145" y="-9"/>
+    </contour>
+    <contour>
+      <point x="440.16991525059285" y="93.98668548075511" type="line"/>
+      <point x="436.8894451700917" y="77.51143574312695"/>
+      <point x="448.7535455276867" y="61.87592034074768"/>
+      <point x="465.50366945661835" y="60.59972042235289" type="curve"/>
+      <point x="514.2992986028491" y="56.88195820168769" type="line"/>
+      <point x="528.402750484879" y="55.80740948686636"/>
+      <point x="541.0928777446195" y="65.41985940938223"/>
+      <point x="543.8782043073371" y="79.28722995567813" type="curve"/>
+      <point x="579.26859361157" y="255.4861894703701" type="line"/>
+      <point x="582.7499127122984" y="272.8187143548474"/>
+      <point x="569.4955438590755" y="289.0"/>
+      <point x="551.8168560810723" y="289.0" type="curve"/>
+      <point x="501.97443886172" y="289.0" type="line"/>
+      <point x="488.6184110990897" y="289.0"/>
+      <point x="477.12170198680417" y="279.56676997817203"/>
+      <point x="474.51351648170436" y="266.46788277478186" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>o.sc</string>
+    </dict>
+  </lib>
+</glyph>

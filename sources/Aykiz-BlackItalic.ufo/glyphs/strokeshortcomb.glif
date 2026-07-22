@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="strokeshortcomb" format="2">
+  <unicode hex="0335"/>
+  <anchor x="333" y="433" name="_center"/>
+  <outline>
+    <contour>
+      <point x="117.9" y="427.5" type="line"/>
+      <point x="112.77839022328504" y="401.8919511164252"/>
+      <point x="132.3651049920914" y="378.0"/>
+      <point x="158.48029318456858" y="378.0" type="curve"/>
+      <point x="488.4513736423237" y="378.0" type="line"/>
+      <point x="516.0988728044642" y="378.0"/>
+      <point x="539.9029321504819" y="397.5146607524093"/>
+      <point x="545.3250528323971" y="424.62526416198534" type="curve"/>
+      <point x="548.1" y="438.5" type="line"/>
+      <point x="553.221609776715" y="464.1080488835748"/>
+      <point x="533.6348950079087" y="488.0"/>
+      <point x="507.51970681543145" y="488.0" type="curve"/>
+      <point x="177.5486263576763" y="488.0" type="line"/>
+      <point x="149.9011271955357" y="488.0"/>
+      <point x="126.09706784951813" y="468.4853392475907"/>
+      <point x="120.67494716760294" y="441.37473583801466" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

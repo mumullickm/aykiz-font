@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="palochka-cy" format="2">
+  <advance width="288"/>
+  <unicode hex="04CF"/>
+  <anchor x="144" y="0" name="bottom"/>
+  <anchor x="144" y="360" name="center"/>
+  <anchor x="325" y="360" name="dot"/>
+  <anchor x="144" y="742" name="top"/>
+  <anchor x="285" y="742" name="topright"/>
+  <outline>
+    <contour>
+      <point x="89.0" y="27.999999999999996" type="line"/>
+      <point x="89.0" y="12.536027004737779"/>
+      <point x="101.53602700473778" y="0.0"/>
+      <point x="117.0" y="0.0" type="curve"/>
+      <point x="171.0" y="0.0" type="line"/>
+      <point x="186.46397299526222" y="0.0"/>
+      <point x="199.0" y="12.536027004737779"/>
+      <point x="199.0" y="27.999999999999996" type="curve"/>
+      <point x="199.0" y="714.0" type="line"/>
+      <point x="199.0" y="729.4639729952622"/>
+      <point x="186.46397299526222" y="742.0"/>
+      <point x="171.0" y="742.0" type="curve"/>
+      <point x="117.0" y="742.0" type="line"/>
+      <point x="101.53602700473778" y="742.0"/>
+      <point x="89.0" y="729.4639729952622"/>
+      <point x="89.0" y="714.0" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

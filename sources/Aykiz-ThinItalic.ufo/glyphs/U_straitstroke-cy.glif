@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ustraitstroke-cy" format="2">
+  <advance width="620"/>
+  <unicode hex="04B0"/>
+  <outline>
+    <contour>
+      <point x="101.38411715940086" y="239.33119588004638" type="line"/>
+      <point x="100.52972413465422" y="235.5762302364985"/>
+      <point x="103.38363815987412" y="232.0"/>
+      <point x="107.23458017773946" y="232.0" type="curve"/>
+      <point x="503.47026192752367" y="232.0" type="line"/>
+      <point x="506.27109107739545" y="232.0"/>
+      <point x="508.69931624169175" y="233.9377795596187"/>
+      <point x="509.32072494586225" y="236.66880411995362" type="curve"/>
+      <point x="510.9134828405991" y="243.66880411995362" type="line"/>
+      <point x="511.76787586534573" y="247.4237697635015"/>
+      <point x="508.91396184012586" y="251.0"/>
+      <point x="505.0630198222605" y="251.0" type="curve"/>
+      <point x="108.8273380724763" y="251.0" type="line"/>
+      <point x="106.02650892260453" y="251.0"/>
+      <point x="103.59828375830823" y="249.0622204403813"/>
+      <point x="102.97687505413771" y="246.33119588004638" type="curve"/>
+    </contour>
+    <component base="Ustrait-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quoteleft.sc" format="2">
+  <advance width="304"/>
+  <outline>
+    <contour>
+      <point x="289.4750503475745" y="525.3309860097122" type="line"/>
+      <point x="302.1976740240909" y="551.5246229907754"/>
+      <point x="283.11995486792483" y="582.0"/>
+      <point x="254.0" y="582.0" type="curve"/>
+      <point x="207.17997326505835" y="582.0" type="line"/>
+      <point x="188.2638077307412" y="582.0"/>
+      <point x="170.53611224963416" y="572.7754935229154"/>
+      <point x="159.68081592320092" y="557.284081057068" type="curve"/>
+      <point x="81" y="445" type="line" smooth="yes"/>
+      <point x="45" y="393"/>
+      <point x="33" y="366"/>
+      <point x="33" y="334" type="curve" smooth="yes"/>
+      <point x="33" y="268"/>
+      <point x="82" y="220"/>
+      <point x="156" y="220" type="curve" smooth="yes"/>
+      <point x="235" y="220"/>
+      <point x="298" y="275"/>
+      <point x="298" y="353" type="curve" smooth="yes"/>
+      <point x="298" y="414"/>
+      <point x="247" y="463"/>
+      <point x="174" y="463" type="curve"/>
+      <point x="187.2" y="393.7" type="line"/>
+      <point x="190.64730334524856" y="375.60165743744506"/>
+      <point x="215.16843629997456" y="372.3467806175947"/>
+      <point x="223.21783785543556" y="388.9190779376614" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>6</integer>
+        <key>height</key>
+        <integer>83</integer>
+        <key>weight</key>
+        <integer>-17</integer>
+        <key>width</key>
+        <integer>84</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>quoteleft</string>
+    </dict>
+  </lib>
+</glyph>

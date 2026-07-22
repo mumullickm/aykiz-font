@@ -1,5 +1,5 @@
 Copyright 2026 Miraz Mullick (Aykiz corner-rounded derivative)
-Portions Copyright 2024 The Montserrat Project Authors (https://github.com/JulietaUla/Montserrat), with Reserved Font Name Montserrat.
+Portions Copyright 2011 The Montserrat Project Authors (https://github.com/JulietaUla/Montserrat), with Reserved Font Name Montserrat.
 
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.

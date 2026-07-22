@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="te-cy.loclSRB" format="2">
+  <advance width="1036"/>
+  <outline>
+    <contour>
+      <point x="87.0" y="681.1" type="line"/>
+      <point x="87.0" y="651.7736797839849"/>
+      <point x="110.77367978398486" y="628.0"/>
+      <point x="140.1" y="628.0" type="curve"/>
+      <point x="873.9" y="628.0" type="line"/>
+      <point x="903.2263202160151" y="628.0"/>
+      <point x="927.0" y="651.7736797839849"/>
+      <point x="927.0" y="681.1" type="curve"/>
+      <point x="927.0" y="692.9" type="line"/>
+      <point x="927.0" y="722.2263202160151"/>
+      <point x="903.2263202160151" y="746.0"/>
+      <point x="873.9" y="746.0" type="curve"/>
+      <point x="140.1" y="746.0" type="line"/>
+      <point x="110.77367978398486" y="746.0"/>
+      <point x="87.0" y="722.2263202160151"/>
+      <point x="87.0" y="692.9" type="curve"/>
+    </contour>
+    <component base="sha-cy.loclBGR"/>
+  </outline>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravecomb.loclVIET" format="2">
+  <anchor x="300" y="547" name="_top"/>
+  <anchor x="300" y="730" name="top"/>
+  <outline>
+    <contour>
+      <point x="239.28615775443086" y="619.23233228697" type="line"/>
+      <point x="249.47028075109588" y="611.3045718704044"/>
+      <point x="262.0076482473921" y="607.0"/>
+      <point x="274.913683519065" y="607.0" type="curve"/>
+      <point x="337.5" y="607.0" type="line"/>
+      <point x="364.88883116288395" y="607.0"/>
+      <point x="380.2399024374175" y="638.5569870895658"/>
+      <point x="363.3331367813992" y="660.1048256707656" type="curve"/>
+      <point x="320.41639170356217" y="714.8026380248717" type="line"/>
+      <point x="309.4214172812744" y="728.8158407199444"/>
+      <point x="292.59735307618445" y="737.0"/>
+      <point x="274.7855785346079" y="737.0" type="curve"/>
+      <point x="183.23535320457418" y="737.0" type="line"/>
+      <point x="152.1085578009459" y="737.0"/>
+      <point x="138.58791674129776" y="697.6201845726424"/>
+      <point x="163.15" y="678.5" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>weight</key>
+        <integer>-20</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

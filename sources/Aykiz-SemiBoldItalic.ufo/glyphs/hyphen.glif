@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hyphen" format="2">
+  <advance width="384"/>
+  <unicode hex="002D"/>
+  <outline>
+    <contour>
+      <point x="56.292899031666906" y="262.2125226671309" type="line"/>
+      <point x="53.02509773405659" y="244.96579359640975"/>
+      <point x="66.24985481362074" y="229.0"/>
+      <point x="83.80343533041336" y="229.0" type="curve"/>
+      <point x="298.0454907238804" y="229.0" type="line"/>
+      <point x="311.3925592849138" y="229.0"/>
+      <point x="322.88417414161194" y="238.42087070805968"/>
+      <point x="325.50174964322616" y="251.50874821613084" type="curve"/>
+      <point x="333.3017496432262" y="290.50874821613087" type="line"/>
+      <point x="336.766984442634" y="307.83492221316993"/>
+      <point x="323.5147905852416" y="324.0"/>
+      <point x="305.8454907238804" y="324.0" type="curve"/>
+      <point x="91.1929090146239" y="324.0" type="line"/>
+      <point x="77.73898979505826" y="324.0"/>
+      <point x="66.18697481922509" y="314.4312559903546"/>
+      <point x="63.682372715877435" y="301.2125226671309" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="minute" format="2">
+  <advance width="214"/>
+  <unicode hex="2032"/>
+  <outline>
+    <contour>
+      <point x="105.47901192508357" y="458.6358536407152" type="line"/>
+      <point x="102.61211329776577" y="441.55910964321356"/>
+      <point x="115.77685104100009" y="426.0"/>
+      <point x="133.09257491543067" y="426.0" type="curve"/>
+      <point x="157.627894050586" y="426.0" type="line"/>
+      <point x="170.7109811499428" y="426.0"/>
+      <point x="182.05006671939745" y="435.05997227604684"/>
+      <point x="184.93747623834835" y="447.8204595049589" type="curve"/>
+      <point x="234.26594339163304" y="665.8204595049589" type="line"/>
+      <point x="238.2290801985561" y="683.3349673291027"/>
+      <point x="224.91365603556468" y="700.0"/>
+      <point x="206.95636120387067" y="700.0" type="curve"/>
+      <point x="169.6911150614161" y="700.0" type="line"/>
+      <point x="156.01614746546036" y="700.0"/>
+      <point x="144.34166451093947" y="690.1220886086395"/>
+      <point x="142.07755207106896" y="676.6358536407153" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Adieresis.alt" format="2">
+  <advance width="688"/>
+  <outline>
+    <contour>
+      <point x="12.958810067980751" y="8.526667838727773" type="line"/>
+      <point x="11.112394249931237" y="4.549772230621124"/>
+      <point x="14.016237316721934" y="0.0"/>
+      <point x="18.40086387447134" y="0.0" type="curve"/>
+      <point x="28.167661436434987" y="0.0" type="line"/>
+      <point x="30.504548073157782" y="0.0"/>
+      <point x="32.628819060014216" y="1.3568209370653679"/>
+      <point x="33.611451020218205" y="3.477074125644327" type="curve"/>
+      <point x="347.10780559423324" y="679.9171578121626" type="line"/>
+      <point x="347.99064683333944" y="681.822089697174"/>
+      <point x="346.5995652264218" y="684.0"/>
+      <point x="344.5" y="684.0" type="curve"/>
+      <point x="343.5" y="684.0" type="line"/>
+      <point x="341.4004347735782" y="684.0"/>
+      <point x="340.00935316666056" y="681.822089697174"/>
+      <point x="340.89219440576676" y="679.9171578121626" type="curve"/>
+      <point x="654.3885489797818" y="3.477074125644327" type="line"/>
+      <point x="655.3711809399858" y="1.3568209370653679"/>
+      <point x="657.4954519268422" y="0.0"/>
+      <point x="659.832338563565" y="0.0" type="curve"/>
+      <point x="669.5991361255286" y="0.0" type="line"/>
+      <point x="673.9837626832781" y="0.0"/>
+      <point x="676.8876057500688" y="4.549772230621124"/>
+      <point x="675.0411899320193" y="8.526667838727773" type="curve"/>
+      <point x="355.61261850344783" y="696.5266678387278" type="line"/>
+      <point x="354.6291575155928" y="698.6448915048771"/>
+      <point x="352.50595909929444" y="700.0"/>
+      <point x="350.17056469695723" y="700.0" type="curve"/>
+      <point x="337.82943530304277" y="700.0" type="line"/>
+      <point x="335.49404090070556" y="700.0"/>
+      <point x="333.3708424844072" y="698.6448915048771"/>
+      <point x="332.38738149655217" y="696.5266678387278" type="curve"/>
+    </contour>
+    <contour>
+      <point x="110.5" y="195.55" type="line"/>
+      <point x="108.45558382051549" y="191.6656092589794"/>
+      <point x="111.27236205671156" y="187.0"/>
+      <point x="115.66190974911275" y="187.0" type="curve"/>
+      <point x="571.3380902508873" y="187.0" type="line"/>
+      <point x="575.7276379432884" y="187.0"/>
+      <point x="578.5444161794845" y="191.6656092589794"/>
+      <point x="576.5" y="195.55" type="curve"/>
+      <point x="572.6871165278969" y="202.79447859699573" type="line"/>
+      <point x="571.6495844890962" y="204.76578947071724"/>
+      <point x="569.6052829537621" y="206.0"/>
+      <point x="567.3776071936051" y="206.0" type="curve"/>
+      <point x="119.62239280639491" y="206.0" type="line"/>
+      <point x="117.39471704623797" y="206.0"/>
+      <point x="115.35041551090382" y="204.76578947071724"/>
+      <point x="114.31288347210302" y="202.79447859699573" type="curve"/>
+    </contour>
+    <contour>
+      <point x="212" y="651" type="curve" smooth="yes"/>
+      <point x="226" y="651"/>
+      <point x="238" y="663"/>
+      <point x="238" y="677" type="curve" smooth="yes"/>
+      <point x="238" y="691"/>
+      <point x="226" y="703"/>
+      <point x="212" y="703" type="curve" smooth="yes"/>
+      <point x="198" y="703"/>
+      <point x="186" y="691"/>
+      <point x="186" y="677" type="curve" smooth="yes"/>
+      <point x="186" y="663"/>
+      <point x="198" y="651"/>
+    </contour>
+    <contour>
+      <point x="476" y="651" type="curve" smooth="yes"/>
+      <point x="490" y="651"/>
+      <point x="502" y="663"/>
+      <point x="502" y="677" type="curve" smooth="yes"/>
+      <point x="502" y="691"/>
+      <point x="490" y="703"/>
+      <point x="476" y="703" type="curve" smooth="yes"/>
+      <point x="462" y="703"/>
+      <point x="450" y="691"/>
+      <point x="450" y="677" type="curve" smooth="yes"/>
+      <point x="450" y="663"/>
+      <point x="462" y="651"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>A</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>A</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dblgravecomb" format="2">
+  <unicode hex="030F"/>
+  <anchor x="300" y="547" name="_top"/>
+  <anchor x="300" y="760" name="top"/>
+  <outline>
+    <contour>
+      <point x="325.06644886101856" y="634.9316307447117" type="line"/>
+      <point x="335.5792431723704" y="617.5909390971209"/>
+      <point x="354.38523755115244" y="607.0"/>
+      <point x="374.6637589728344" y="607.0" type="curve"/>
+      <point x="424.5" y="607.0" type="line"/>
+      <point x="457.81622282310303" y="607.0"/>
+      <point x="481.43427057473065" y="639.5099366931364"/>
+      <point x="471.1366901172148" y="671.194799639339" type="curve"/>
+      <point x="453.02372753643704" y="726.9269921955784" type="line"/>
+      <point x="445.2577635792061" y="750.8222659101351"/>
+      <point x="422.9893222316921" y="767.0"/>
+      <point x="397.863751550042" y="767.0" type="curve"/>
+      <point x="329.1981145869669" y="767.0" type="line"/>
+      <point x="292.2434738187879" y="767.0"/>
+      <point x="269.49196923596315" y="726.6008754870711"/>
+      <point x="288.65" y="695.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="91.06644886101856" y="634.9316307447117" type="line"/>
+      <point x="101.57924317237043" y="617.5909390971209"/>
+      <point x="120.38523755115246" y="607.0"/>
+      <point x="140.66375897283442" y="607.0" type="curve"/>
+      <point x="190.5" y="607.0" type="line"/>
+      <point x="223.81622282310303" y="607.0"/>
+      <point x="247.43427057473065" y="639.5099366931364"/>
+      <point x="237.1366901172148" y="671.194799639339" type="curve"/>
+      <point x="219.02372753643704" y="726.9269921955784" type="line"/>
+      <point x="211.2577635792061" y="750.8222659101351"/>
+      <point x="188.9893222316921" y="767.0"/>
+      <point x="163.86375155004205" y="767.0" type="curve"/>
+      <point x="95.19811458696685" y="767.0" type="line"/>
+      <point x="58.24347381878787" y="767.0"/>
+      <point x="35.491969235963126" y="726.6008754870711"/>
+      <point x="54.650000000000006" y="695.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

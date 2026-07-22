@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotesingle.sc" format="2">
+  <advance width="254"/>
+  <outline>
+    <contour>
+      <point x="66.41671605358226" y="388.1715182143619" type="line"/>
+      <point x="61.445716212165564" y="353.24016797737966"/>
+      <point x="88.55491226249899" y="322.0"/>
+      <point x="123.83819539774711" y="322.0" type="curve"/>
+      <point x="172.05135010832615" y="322.0" type="line"/>
+      <point x="198.50950799485489" y="322.0"/>
+      <point x="221.61411877079806" y="339.90553552847007"/>
+      <point x="228.21648948711004" y="365.52667562162105" type="curve"/>
+      <point x="265.32418179480237" y="509.52667562162105" type="line"/>
+      <point x="274.7833119334347" y="546.2337478013883"/>
+      <point x="247.06529903666384" y="582.0"/>
+      <point x="209.15904241601845" y="582.0" type="curve"/>
+      <point x="144.33050309005483" y="582.0" type="line"/>
+      <point x="115.4549192674921" y="582.0"/>
+      <point x="90.97725407617283" y="560.7590826974307"/>
+      <point x="86.90902374588997" y="532.1715182143619" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>quotesingle</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>quotesingle</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bar" format="2">
+  <advance width="301"/>
+  <unicode hex="007C"/>
+  <outline>
+    <contour>
+      <point x="14.689967026538177" y="-160.51438964256826" type="line"/>
+      <point x="11.228752075394656" y="-177.8389735691476"/>
+      <point x="24.480400943638323" y="-194.0"/>
+      <point x="42.14735362844254" y="-194.0" type="curve"/>
+      <point x="86.04068055959164" y="-194.0" type="line"/>
+      <point x="99.3899119430363" y="-194.0"/>
+      <point x="110.88275709218254" y="-184.576146319343"/>
+      <point x="113.49806716149601" y="-171.48561035743174" type="curve"/>
+      <point x="289.31003297346183" y="708.5143896425683" type="line"/>
+      <point x="292.77124792460535" y="725.8389735691476"/>
+      <point x="279.5195990563617" y="742.0"/>
+      <point x="261.85264637155746" y="742.0" type="curve"/>
+      <point x="217.95931944040836" y="742.0" type="line"/>
+      <point x="204.61008805696372" y="742.0"/>
+      <point x="193.11724290781746" y="732.576146319343"/>
+      <point x="190.501932838504" y="719.4856103574317" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

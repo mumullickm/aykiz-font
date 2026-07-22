@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eldescender-cy" format="2">
+  <advance width="822"/>
+  <unicode hex="052E"/>
+  <anchor x="576" y="0" name="#exit"/>
+  <anchor x="576" y="0" name="bottomleft"/>
+  <outline>
+    <contour>
+      <point x="81" y="-9" type="curve" smooth="yes"/>
+      <point x="225" y="-9"/>
+      <point x="267" y="135"/>
+      <point x="276" y="412" type="curve" smooth="yes"/>
+      <point x="283.3584895491801" y="613.4386514088044" type="line"/>
+      <point x="283.5674151167588" y="619.1579888212725"/>
+      <point x="276.41387271206065" y="621.8966472544728"/>
+      <point x="272.75" y="617.5" type="curve"/>
+      <point x="270.25" y="614.5" type="line"/>
+      <point x="265.7825584830841" y="609.1390701797009"/>
+      <point x="269.5946950388651" y="601.0"/>
+      <point x="276.57306177079" y="601.0" type="curve"/>
+      <point x="585.169548519457" y="601.0" type="line"/>
+      <point x="591.9513288670746" y="601.0"/>
+      <point x="595.4712307811425" y="609.0864558276617"/>
+      <point x="590.85" y="614.05" type="curve"/>
+      <point x="588.15" y="616.95" type="line"/>
+      <point x="583.8082933319694" y="621.6133145693663"/>
+      <point x="576.0" y="618.541119720039"/>
+      <point x="576.0" y="612.169548519457" type="curve"/>
+      <point x="576.0" y="27.999999999999996" type="line"/>
+      <point x="576.0" y="12.536027004737779"/>
+      <point x="588.5360270047378" y="0.0"/>
+      <point x="604.0" y="0.0" type="curve"/>
+      <point x="661.0" y="0.0" type="line"/>
+      <point x="676.4639729952622" y="0.0"/>
+      <point x="689.0" y="12.536027004737779"/>
+      <point x="689.0" y="27.999999999999996" type="curve"/>
+      <point x="689.0" y="672.0" type="line"/>
+      <point x="689.0" y="687.4639729952622"/>
+      <point x="676.4639729952622" y="700.0"/>
+      <point x="661.0" y="700.0" type="curve"/>
+      <point x="212.05751066981102" y="700.0" type="line"/>
+      <point x="196.96655350698836" y="700.0"/>
+      <point x="184.5904266328929" y="688.0404576804724"/>
+      <point x="184.07391583181413" y="672.9583422889725" type="curve"/>
+      <point x="175" y="408" type="line" smooth="yes"/>
+      <point x="167" y="201"/>
+      <point x="139" y="98"/>
+      <point x="53" y="98" type="curve" smooth="yes"/>
+      <point x="42" y="98"/>
+      <point x="33" y="99"/>
+      <point x="22" y="102" type="curve"/>
+      <point x="14" y="0" type="line"/>
+      <point x="39" y="-6"/>
+      <point x="60" y="-9"/>
+    </contour>
+    <contour>
+      <point x="688.0" y="-123.0" type="line"/>
+      <point x="688.0" y="-138.46397299526222"/>
+      <point x="700.5360270047378" y="-151.0"/>
+      <point x="716.0" y="-151.0" type="curve"/>
+      <point x="766.0" y="-151.0" type="line"/>
+      <point x="781.4639729952622" y="-151.0"/>
+      <point x="794.0" y="-138.46397299526222"/>
+      <point x="794.0" y="-123.0" type="curve"/>
+      <point x="794.0" y="71.0" type="line"/>
+      <point x="794.0" y="86.46397299526222"/>
+      <point x="781.4639729952622" y="99.0"/>
+      <point x="766.0" y="99.0" type="curve"/>
+      <point x="604.0" y="99.0" type="line"/>
+      <point x="588.5360270047378" y="99.0"/>
+      <point x="576.0" y="86.46397299526222"/>
+      <point x="576.0" y="71.0" type="curve"/>
+      <point x="576.0" y="27.999999999999996" type="line"/>
+      <point x="576.0" y="12.536027004737779"/>
+      <point x="588.5360270047378" y="0.0"/>
+      <point x="604.0" y="0.0" type="curve"/>
+      <point x="697.8599200663283" y="0.0" type="line"/>
+      <point x="704.6557956439767" y="0.0"/>
+      <point x="708.1203778920195" y="8.161037183265513"/>
+      <point x="703.4" y="13.05" type="curve"/>
+      <point x="700.6" y="15.95" type="line"/>
+      <point x="696.0220445074992" y="20.69145390294728"/>
+      <point x="688.0" y="17.450751698610517"/>
+      <point x="688.0" y="10.859920066328261" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>=+29</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

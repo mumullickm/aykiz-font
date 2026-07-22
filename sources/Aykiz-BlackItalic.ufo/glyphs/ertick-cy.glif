@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ertick-cy" format="2">
+  <advance width="704"/>
+  <unicode hex="048F"/>
+  <outline>
+    <contour>
+      <point x="543.25" y="-34.5" type="line"/>
+      <point x="562.2991154039396" y="-21.800589730706967"/>
+      <point x="568.3704312637512" y="3.417461217810285"/>
+      <point x="557.1884068305355" y="23.395102430811406" type="curve"/>
+      <point x="434.39652062302156" y="242.77328937472367" type="line"/>
+      <point x="422.85828495766197" y="263.3873323622259"/>
+      <point x="396.20593833746256" y="269.8039588916417"/>
+      <point x="376.55" y="256.7" type="curve"/>
+      <point x="368.45" y="251.3" type="line"/>
+      <point x="347.99582121105414" y="237.66388080736942"/>
+      <point x="341.74725127808324" y="210.4296728272585"/>
+      <point x="354.2112578278012" y="189.240861692738" type="curve"/>
+      <point x="481.4340205298137" y="-27.03783490068333" type="line"/>
+      <point x="492.6001924182544" y="-46.020327111032486"/>
+      <point x="517.4256453646572" y="-51.716236423561874"/>
+      <point x="535.75" y="-39.5" type="curve"/>
+    </contour>
+    <component base="p" xOffset="4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

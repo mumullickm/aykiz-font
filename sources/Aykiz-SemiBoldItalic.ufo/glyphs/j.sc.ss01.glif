@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="j.sc.ss01" format="2">
+  <advance width="456"/>
+  <anchor x="273" y="570" name="top"/>
+  <outline>
+    <contour>
+      <point x="118" y="-90" type="curve" smooth="yes"/>
+      <point x="235" y="-90"/>
+      <point x="308" y="-37"/>
+      <point x="337" y="107" type="curve" smooth="yes"/>
+      <point x="422.35195143218334" y="536.5429729684879" type="line"/>
+      <point x="425.7928142478278" y="553.8594890950462"/>
+      <point x="412.5439332548185" y="570.0"/>
+      <point x="394.8888697409866" y="570.0" type="curve"/>
+      <point x="136.05262313628026" y="570.0" type="line"/>
+      <point x="122.66149539614402" y="570.0"/>
+      <point x="111.14488074889876" y="560.5182793832604"/>
+      <point x="108.57362880019969" y="547.3763249787984" type="curve"/>
+      <point x="101.53015053933012" y="511.3763249787984" type="line"/>
+      <point x="98.14661328060225" y="494.0826901008559"/>
+      <point x="111.38762020605286" y="478.0"/>
+      <point x="129.0091448754107" y="478.0" type="curve"/>
+      <point x="265.8454907238804" y="478.0" type="line"/>
+      <point x="283.5147905852416" y="478.0"/>
+      <point x="296.766984442634" y="461.83492221316993"/>
+      <point x="293.3017496432262" y="444.50874821613087" type="curve"/>
+      <point x="225" y="103" type="line" smooth="yes"/>
+      <point x="211" y="33"/>
+      <point x="175" y="5"/>
+      <point x="119" y="5" type="curve" smooth="yes"/>
+      <point x="72" y="5"/>
+      <point x="36" y="27"/>
+      <point x="13" y="67" type="curve"/>
+      <point x="-61" y="-4" type="line"/>
+      <point x="-30" y="-59"/>
+      <point x="34" y="-90"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>j.sc</string>
+    </dict>
+  </lib>
+</glyph>

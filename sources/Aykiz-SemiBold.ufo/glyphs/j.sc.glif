@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="j.sc" format="2">
+  <advance width="456"/>
+  <anchor x="213" y="570" name="top"/>
+  <outline>
+    <contour>
+      <point x="174" y="-9" type="curve" smooth="yes"/>
+      <point x="301" y="-9"/>
+      <point x="370" y="59"/>
+      <point x="370" y="199" type="curve" smooth="yes"/>
+      <point x="370.0" y="542.0" type="line"/>
+      <point x="370.0" y="557.4639729952622"/>
+      <point x="357.4639729952622" y="570.0"/>
+      <point x="342.0" y="570.0" type="curve"/>
+      <point x="83.0" y="570.0" type="line"/>
+      <point x="67.53602700473778" y="570.0"/>
+      <point x="55.0" y="557.4639729952622"/>
+      <point x="55.0" y="542.0" type="curve"/>
+      <point x="55.0" y="506.0" type="line"/>
+      <point x="55.0" y="490.5360270047378"/>
+      <point x="67.53602700473778" y="478.0"/>
+      <point x="83.0" y="478.0" type="curve"/>
+      <point x="231.0" y="478.0" type="line"/>
+      <point x="246.46397299526222" y="478.0"/>
+      <point x="259.0" y="465.4639729952622"/>
+      <point x="259.0" y="450.0" type="curve"/>
+      <point x="259" y="190" type="line" smooth="yes"/>
+      <point x="259" y="120"/>
+      <point x="231" y="86"/>
+      <point x="173" y="86" type="curve" smooth="yes"/>
+      <point x="127" y="86"/>
+      <point x="90" y="109"/>
+      <point x="62" y="146" type="curve"/>
+      <point x="-7" y="76" type="line"/>
+      <point x="30" y="21"/>
+      <point x="96" y="-9"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>u.sc</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

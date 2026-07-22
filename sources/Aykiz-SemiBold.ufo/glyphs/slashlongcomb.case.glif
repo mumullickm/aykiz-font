@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="slashlongcomb.case" format="2">
+  <anchor x="404" y="350" name="_center"/>
+  <outline>
+    <contour>
+      <point x="83.01703247127622" y="-37.77615454021329" type="line"/>
+      <point x="73.38265340284167" y="-51.264285236021664"/>
+      <point x="83.02438750146777" y="-70.0"/>
+      <point x="99.6" y="-70.0" type="curve"/>
+      <point x="133.59069893182948" y="-70.0" type="line"/>
+      <point x="142.63332982337423" y="-70.0"/>
+      <point x="151.1193136797481" y="-65.63296084835265"/>
+      <point x="156.37523612561807" y="-58.2746694241347" type="curve"/>
+      <point x="724.9829675287237" y="737.7761545402133" type="line"/>
+      <point x="734.6173465971583" y="751.2642852360217"/>
+      <point x="724.9756124985322" y="770.0"/>
+      <point x="708.4" y="770.0" type="curve"/>
+      <point x="674.4093010681705" y="770.0" type="line"/>
+      <point x="665.3666701766258" y="770.0"/>
+      <point x="656.8806863202519" y="765.6329608483527"/>
+      <point x="651.6247638743819" y="758.2746694241347" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>818</integer>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

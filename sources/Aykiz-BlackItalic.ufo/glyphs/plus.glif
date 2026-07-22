@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="plus" format="2">
+  <advance width="619"/>
+  <unicode hex="002B"/>
+  <outline>
+    <contour>
+      <point x="199.87494716760293" y="174.37473583801466" type="line"/>
+      <point x="192.69696079740103" y="138.4848039870052"/>
+      <point x="220.14793378771378" y="105.0"/>
+      <point x="256.74862635767624" y="105.0" type="curve"/>
+      <point x="318.4513736423237" y="105.0" type="line"/>
+      <point x="346.0988728044643" y="105.0"/>
+      <point x="369.9029321504819" y="124.51466075240936"/>
+      <point x="375.3250528323971" y="151.62526416198534" type="curve"/>
+      <point x="450.12505283239705" y="525.6252641619853" type="line"/>
+      <point x="457.30303920259894" y="561.5151960129948"/>
+      <point x="429.8520662122862" y="595.0"/>
+      <point x="393.25137364232376" y="595.0" type="curve"/>
+      <point x="331.5486263576763" y="595.0" type="line"/>
+      <point x="303.9011271955357" y="595.0"/>
+      <point x="280.0970678495181" y="575.4853392475907"/>
+      <point x="274.6749471676029" y="548.3747358380147" type="curve"/>
+    </contour>
+    <contour>
+      <point x="66.87494716760293" y="334.37473583801466" type="line"/>
+      <point x="59.69696079740103" y="298.4848039870052"/>
+      <point x="87.14793378771378" y="265.0"/>
+      <point x="123.74862635767627" y="265.0" type="curve"/>
+      <point x="515.4513736423237" y="265.0" type="line"/>
+      <point x="543.0988728044642" y="265.0"/>
+      <point x="566.9029321504819" y="284.5146607524093"/>
+      <point x="572.3250528323971" y="311.62526416198534" type="curve"/>
+      <point x="583.125052832397" y="365.62526416198534" type="line"/>
+      <point x="590.3030392025989" y="401.5151960129948"/>
+      <point x="562.8520662122862" y="435.0"/>
+      <point x="526.2513736423238" y="435.0" type="curve"/>
+      <point x="134.5486263576763" y="435.0" type="line"/>
+      <point x="106.90112719553571" y="435.0"/>
+      <point x="83.09706784951813" y="415.4853392475907"/>
+      <point x="77.67494716760294" y="388.37473583801466" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>hyphen.case</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>hyphen.case</string>
+    </dict>
+  </lib>
+</glyph>

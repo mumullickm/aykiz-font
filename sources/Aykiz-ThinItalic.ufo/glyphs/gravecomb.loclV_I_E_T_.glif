@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravecomb.loclVIET" format="2">
+  <anchor x="351" y="517" name="_top"/>
+  <anchor x="374" y="630" name="top"/>
+  <outline>
+    <contour>
+      <point x="382.3164151678522" y="608.4389613949982" type="line"/>
+      <point x="383.4029751097839" y="607.5102776839453"/>
+      <point x="384.78538018454134" y="607.0"/>
+      <point x="386.2147387618709" y="607.0" type="curve"/>
+      <point x="400.5" y="607.0" type="line"/>
+      <point x="405.3326177742622" y="607.0"/>
+      <point x="407.6676020131561" y="612.9181289596671"/>
+      <point x="404.1368867097452" y="616.2178628880886" type="curve"/>
+      <point x="308.7295416797455" y="705.3836059067798" type="line"/>
+      <point x="307.6182002823042" y="706.4222427268185"/>
+      <point x="306.15384690761357" y="707.0"/>
+      <point x="304.63271372948395" y="707.0" type="curve"/>
+      <point x="283.25473876187084" y="707.0" type="line"/>
+      <point x="277.6801144700613" y="707.0"/>
+      <point x="275.11873573396474" y="700.0609096290899"/>
+      <point x="279.35641516785216" y="696.4389613949982" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="logicalnot" format="2">
+  <advance width="560"/>
+  <unicode hex="00AC"/>
+  <outline>
+    <contour>
+      <point x="485.0" y="353.0" type="line"/>
+      <point x="485.0" y="356.31370849898474"/>
+      <point x="482.31370849898474" y="359.0"/>
+      <point x="479.0" y="359.0" type="curve"/>
+      <point x="81.0" y="359.0" type="line"/>
+      <point x="77.68629150101523" y="359.0"/>
+      <point x="75.0" y="356.31370849898474"/>
+      <point x="75.0" y="353.0" type="curve"/>
+      <point x="75.0" y="346.0" type="line"/>
+      <point x="75.0" y="342.68629150101526"/>
+      <point x="77.68629150101523" y="340.0"/>
+      <point x="81.0" y="340.0" type="curve"/>
+      <point x="459.0" y="340.0" type="line"/>
+      <point x="462.31370849898474" y="340.0"/>
+      <point x="465.0" y="337.31370849898474"/>
+      <point x="465.0" y="334.0" type="curve"/>
+      <point x="465.0" y="165.0" type="line"/>
+      <point x="465.0" y="161.68629150101523"/>
+      <point x="467.68629150101526" y="159.0"/>
+      <point x="471.0" y="159.0" type="curve"/>
+      <point x="479.0" y="159.0" type="line"/>
+      <point x="482.31370849898474" y="159.0"/>
+      <point x="485.0" y="161.68629150101523"/>
+      <point x="485.0" y="165.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>minus</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>minus</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Izhitsa-cy" format="2">
+  <advance width="765"/>
+  <unicode hex="0474"/>
+  <outline>
+    <contour>
+      <point x="241.32844133760412" y="22.245517439980407" type="line"/>
+      <point x="244.05075103277997" y="9.282137939143057"/>
+      <point x="255.4846010067629" y="0.0"/>
+      <point x="268.73073924245926" y="0.0" type="curve"/>
+      <point x="342.7509690068058" y="0.0" type="line"/>
+      <point x="352.79896074736837" y="0.0"/>
+      <point x="362.0765770315097" y="5.384009805142013"/>
+      <point x="367.0617769862907" y="14.108109726008653" type="curve"/>
+      <point x="631" y="476" type="line" smooth="yes"/>
+      <point x="687" y="574"/>
+      <point x="732" y="609"/>
+      <point x="810" y="589" type="curve"/>
+      <point x="836" y="699" type="line"/>
+      <point x="707" y="732"/>
+      <point x="630" y="690"/>
+      <point x="553" y="555" type="curve" smooth="yes"/>
+      <point x="368.55752289121745" y="230.3478570347674" type="line"/>
+      <point x="355.81738441198684" y="207.9229074039044"/>
+      <point x="322.1025979192233" y="213.1893992065605"/>
+      <point x="316.80838630838576" y="238.43144385108937" type="curve"/>
+      <point x="224.66716975826736" y="677.7476013311182" type="line"/>
+      <point x="221.9475737359641" y="690.7142466517425"/>
+      <point x="210.51220475022302" y="700.0"/>
+      <point x="197.2634276974004" y="700.0" type="curve"/>
+      <point x="133.49073924245928" y="700.0" type="line"/>
+      <point x="115.71168272507697" y="700.0"/>
+      <point x="102.43453881392986" y="683.6450532670007"/>
+      <point x="106.08844133760411" y="666.2455174399804" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

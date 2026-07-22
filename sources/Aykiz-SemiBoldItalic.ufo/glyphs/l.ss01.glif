@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l.ss01" format="2">
+  <advance width="328"/>
+  <anchor x="154" y="0" name="bottom"/>
+  <anchor x="161" y="360" name="center"/>
+  <anchor x="343" y="360" name="dot"/>
+  <anchor x="237" y="742" name="top"/>
+  <anchor x="378" y="742" name="topright"/>
+  <outline>
+    <contour>
+      <point x="200" y="-6" type="curve" smooth="yes"/>
+      <point x="226" y="-6"/>
+      <point x="252" y="-2"/>
+      <point x="274" y="6" type="curve"/>
+      <point x="285" y="95" type="line"/>
+      <point x="273" y="90"/>
+      <point x="256" y="86"/>
+      <point x="237" y="86" type="curve" smooth="yes"/>
+      <point x="189" y="86"/>
+      <point x="166" y="115"/>
+      <point x="177" y="168" type="curve" smooth="yes"/>
+      <point x="285.28823745911416" y="708.4995504481003" type="line"/>
+      <point x="288.7600283262492" y="725.8283152979742"/>
+      <point x="275.5069468397012" y="742.0"/>
+      <point x="257.8338196957194" y="742.0" type="curve"/>
+      <point x="204.94666810915865" y="742.0" type="line"/>
+      <point x="191.603125828851" y="742.0"/>
+      <point x="180.1135175299236" y="732.5839918450099"/>
+      <point x="177.49225034576386" y="719.5004495518997" type="curve"/>
+      <point x="67" y="168" type="line" smooth="yes"/>
+      <point x="46" y="62"/>
+      <point x="100" y="-6"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>l</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="strokeshortcomb" format="2">
+  <unicode hex="0335"/>
+  <anchor x="300" y="433" name="_center"/>
+  <outline>
+    <contour>
+      <point x="86.0" y="427.5" type="line"/>
+      <point x="86.0" y="400.1619048833757"/>
+      <point x="108.16190488337571" y="378.0"/>
+      <point x="135.5" y="378.0" type="curve"/>
+      <point x="464.5" y="378.0" type="line"/>
+      <point x="491.8380951166243" y="378.0"/>
+      <point x="514.0" y="400.1619048833757"/>
+      <point x="514.0" y="427.5" type="curve"/>
+      <point x="514.0" y="438.5" type="line"/>
+      <point x="514.0" y="465.8380951166243"/>
+      <point x="491.8380951166243" y="488.0"/>
+      <point x="464.5" y="488.0" type="curve"/>
+      <point x="135.5" y="488.0" type="line"/>
+      <point x="108.16190488337571" y="488.0"/>
+      <point x="86.0" y="465.8380951166243"/>
+      <point x="86.0" y="438.5" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="t" format="2">
+  <advance width="388"/>
+  <unicode hex="0074"/>
+  <anchor x="241" y="0" name="bottom"/>
+  <anchor x="171" y="307" name="center"/>
+  <anchor x="133" y="630" name="top"/>
+  <anchor x="248" y="742" name="topright"/>
+  <outline>
+    <contour>
+      <point x="248" y="-3" type="curve" smooth="yes"/>
+      <point x="285" y="-3"/>
+      <point x="325" y="9"/>
+      <point x="349" y="34" type="curve"/>
+      <point x="335" y="48" type="line"/>
+      <point x="313" y="27"/>
+      <point x="282" y="16"/>
+      <point x="249" y="16" type="curve" smooth="yes"/>
+      <point x="179" y="16"/>
+      <point x="143" y="56"/>
+      <point x="143" y="129" type="curve" smooth="yes"/>
+      <point x="143.0" y="624.0" type="line"/>
+      <point x="143.0" y="627.3137084989847"/>
+      <point x="140.31370849898477" y="630.0"/>
+      <point x="137.0" y="630.0" type="curve"/>
+      <point x="129.0" y="630.0" type="line"/>
+      <point x="125.68629150101523" y="630.0"/>
+      <point x="123.0" y="627.3137084989847"/>
+      <point x="123.0" y="624.0" type="curve"/>
+      <point x="123" y="124" type="line" smooth="yes"/>
+      <point x="123" y="48"/>
+      <point x="166" y="-3"/>
+    </contour>
+    <contour>
+      <point x="23.0" y="504.0" type="line"/>
+      <point x="23.0" y="500.68629150101526"/>
+      <point x="25.686291501015237" y="498.0"/>
+      <point x="29.0" y="498.0" type="curve"/>
+      <point x="312.0" y="498.0" type="line"/>
+      <point x="315.31370849898474" y="498.0"/>
+      <point x="318.0" y="500.68629150101526"/>
+      <point x="318.0" y="504.0" type="curve"/>
+      <point x="318.0" y="511.0" type="line"/>
+      <point x="318.0" y="514.3137084989847"/>
+      <point x="315.31370849898474" y="517.0"/>
+      <point x="312.0" y="517.0" type="curve"/>
+      <point x="29.0" y="517.0" type="line"/>
+      <point x="25.686291501015237" y="517.0"/>
+      <point x="23.0" y="514.3137084989847"/>
+      <point x="23.0" y="511.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>f</string>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

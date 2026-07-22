@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="te-cy.loclSRB" format="2">
+  <advance width="1049"/>
+  <outline>
+    <contour>
+      <point x="181.0" y="666.0" type="line"/>
+      <point x="181.0" y="650.5360270047378"/>
+      <point x="193.53602700473778" y="638.0"/>
+      <point x="209.0" y="638.0" type="curve"/>
+      <point x="825.0" y="638.0" type="line"/>
+      <point x="840.4639729952622" y="638.0"/>
+      <point x="853.0" y="650.5360270047378"/>
+      <point x="853.0" y="666.0" type="curve"/>
+      <point x="853.0" y="678.0" type="line"/>
+      <point x="853.0" y="693.4639729952622"/>
+      <point x="840.4639729952622" y="706.0"/>
+      <point x="825.0" y="706.0" type="curve"/>
+      <point x="209.0" y="706.0" type="line"/>
+      <point x="193.53602700473778" y="706.0"/>
+      <point x="181.0" y="693.4639729952622"/>
+      <point x="181.0" y="678.0" type="curve"/>
+    </contour>
+    <component base="sha-cy.loclBGR"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>sha-cy.loclBGR</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

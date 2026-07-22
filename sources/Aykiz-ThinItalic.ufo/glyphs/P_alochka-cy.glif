@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Palochka-cy" format="2">
+  <advance width="294"/>
+  <unicode hex="04C0"/>
+  <anchor x="95" y="0" name="bottom"/>
+  <anchor x="105" y="0" name="ogonek"/>
+  <anchor x="235" y="700" name="top"/>
+  <anchor x="133" y="699" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="86.43533936216582" y="7.176696810829101" type="line"/>
+      <point x="85.692789048007" y="3.4639452400350192"/>
+      <point x="88.53254487459108" y="0.0"/>
+      <point x="92.31882341631135" y="0.0" type="curve"/>
+      <point x="100.08117658368866" y="0.0" type="line"/>
+      <point x="102.9412627039101" y="0.0"/>
+      <point x="105.40375160177399" y="2.018758008869933"/>
+      <point x="105.96466063783419" y="4.823303189170896" type="curve"/>
+      <point x="243.56466063783418" y="692.8233031891709" type="line"/>
+      <point x="244.307210951993" y="696.5360547599649"/>
+      <point x="241.46745512540892" y="700.0"/>
+      <point x="237.68117658368865" y="700.0" type="curve"/>
+      <point x="229.91882341631134" y="700.0" type="line"/>
+      <point x="227.0587372960899" y="700.0"/>
+      <point x="224.596248398226" y="697.9812419911301"/>
+      <point x="224.03533936216581" y="695.1766968108291" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

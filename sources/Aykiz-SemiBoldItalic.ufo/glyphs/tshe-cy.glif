@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tshe-cy" format="2">
+  <advance width="673"/>
+  <unicode hex="045B"/>
+  <anchor x="295" y="0" name="bottom"/>
+  <anchor x="269" y="634" name="center"/>
+  <anchor x="241" y="742" name="top"/>
+  <anchor x="321" y="532" name="topright"/>
+  <outline>
+    <contour>
+      <point x="33.85" y="630.8" type="line"/>
+      <point x="30.826991011385175" y="615.9174942098963"/>
+      <point x="42.201708462750105" y="602.0"/>
+      <point x="57.38813536106025" y="602.0" type="curve"/>
+      <point x="474.1157017323025" y="602.0" type="line"/>
+      <point x="487.4311684634516" y="602.0"/>
+      <point x="498.9047708812101" y="611.3773335690342"/>
+      <point x="501.55534668060005" y="624.4263221198771" type="curve"/>
+      <point x="504.15" y="637.2" type="line"/>
+      <point x="507.1730089886148" y="652.0825057901037"/>
+      <point x="495.7982915372499" y="666.0"/>
+      <point x="480.6118646389398" y="666.0" type="curve"/>
+      <point x="63.88429826769747" y="666.0" type="line"/>
+      <point x="50.568831536548366" y="666.0"/>
+      <point x="39.095229118789916" y="656.6226664309658"/>
+      <point x="36.44465331939997" y="643.5736778801229" type="curve"/>
+    </contour>
+    <component base="h" xOffset="1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

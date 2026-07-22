@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Elhook-cy" format="2">
+  <advance width="793"/>
+  <unicode hex="0512"/>
+  <outline>
+    <contour>
+      <point x="393" y="-168" type="line"/>
+      <point x="513" y="-239"/>
+      <point x="689" y="-198"/>
+      <point x="689" y="-31" type="curve" smooth="yes"/>
+      <point x="689.0" y="672.0" type="line"/>
+      <point x="689.0" y="687.4639729952622"/>
+      <point x="676.4639729952622" y="700.0"/>
+      <point x="661.0" y="700.0" type="curve"/>
+      <point x="211.96506614078615" y="700.0" type="line"/>
+      <point x="196.91123425489232" y="700.0"/>
+      <point x="184.5516071697544" y="688.0972085062073"/>
+      <point x="183.984912724753" y="673.0540468752615" type="curve"/>
+      <point x="174" y="408" type="line" smooth="yes"/>
+      <point x="166" y="201"/>
+      <point x="138" y="98"/>
+      <point x="52" y="98" type="curve" smooth="yes"/>
+      <point x="42" y="98"/>
+      <point x="33" y="99"/>
+      <point x="21" y="102" type="curve"/>
+      <point x="13" y="0" type="line"/>
+      <point x="39" y="-6"/>
+      <point x="60" y="-9"/>
+      <point x="80" y="-9" type="curve" smooth="yes"/>
+      <point x="224" y="-9"/>
+      <point x="266" y="135"/>
+      <point x="276" y="412" type="curve" smooth="yes"/>
+      <point x="282.00134542571396" y="574.0363264942766" type="line"/>
+      <point x="282.55876710061375" y="589.0867117165719"/>
+      <point x="294.9214564628474" y="601.0"/>
+      <point x="309.98216077118343" y="601.0" type="curve"/>
+      <point x="548.0" y="601.0" type="line"/>
+      <point x="563.4639729952622" y="601.0"/>
+      <point x="576.0" y="588.4639729952622"/>
+      <point x="576.0" y="573.0" type="curve"/>
+      <point x="576" y="-27" type="line" smooth="yes"/>
+      <point x="576" y="-108"/>
+      <point x="491" y="-127"/>
+      <point x="425" y="-85" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

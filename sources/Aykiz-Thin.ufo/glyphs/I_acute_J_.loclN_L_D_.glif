@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iacute_J.loclNLD" format="2">
+  <advance width="714"/>
+  <guideline x="-254" y="699" angle="90"/>
+  <guideline x="22" y="699" angle="90"/>
+  <guideline x="128" y="732" angle="90"/>
+  <outline>
+    <contour>
+      <point x="327" y="-3" type="curve" smooth="yes"/>
+      <point x="484" y="-3"/>
+      <point x="587" y="95"/>
+      <point x="587" y="293" type="curve" smooth="yes"/>
+      <point x="587.0" y="694.0" type="line"/>
+      <point x="587.0" y="697.3137084989847"/>
+      <point x="584.3137084989847" y="700.0"/>
+      <point x="581.0" y="700.0" type="curve"/>
+      <point x="573.0" y="700.0" type="line"/>
+      <point x="569.6862915010153" y="700.0"/>
+      <point x="567.0" y="697.3137084989847"/>
+      <point x="567.0" y="694.0" type="curve"/>
+      <point x="567" y="294" type="line" smooth="yes"/>
+      <point x="567" y="107"/>
+      <point x="476" y="16"/>
+      <point x="328" y="16" type="curve" smooth="yes"/>
+      <point x="253" y="16"/>
+      <point x="185" y="39"/>
+      <point x="132" y="78" type="curve"/>
+      <point x="120" y="62" type="line"/>
+      <point x="174" y="24"/>
+      <point x="247" y="-3"/>
+    </contour>
+    <contour>
+      <point x="127.0" y="296.0" type="line"/>
+      <point x="127.0" y="292.68629150101526"/>
+      <point x="129.68629150101523" y="290.0"/>
+      <point x="133.0" y="290.0" type="curve"/>
+      <point x="141.0" y="290.0" type="line"/>
+      <point x="144.31370849898477" y="290.0"/>
+      <point x="147.0" y="292.68629150101526"/>
+      <point x="147.0" y="296.0" type="curve"/>
+      <point x="147.0" y="694.0" type="line"/>
+      <point x="147.0" y="697.3137084989847"/>
+      <point x="144.31370849898477" y="700.0"/>
+      <point x="141.0" y="700.0" type="curve"/>
+      <point x="133.0" y="700.0" type="line"/>
+      <point x="129.68629150101523" y="700.0"/>
+      <point x="127.0" y="697.3137084989847"/>
+      <point x="127.0" y="694.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="132.6152975741027" y="765.3405909510807" type="line"/>
+      <point x="129.12861229787964" y="762.6010525197626"/>
+      <point x="131.06580954038964" y="757.0"/>
+      <point x="135.5" y="757.0" type="curve"/>
+      <point x="150.03577714305186" y="757.0" type="line"/>
+      <point x="151.3119371455128" y="757.0"/>
+      <point x="152.55485732332124" y="757.4068953704356"/>
+      <point x="153.58395912481694" y="758.1615700248658" type="curve"/>
+      <point x="287.4847100745973" y="856.3554540547046" type="line"/>
+      <point x="292.0772516931488" y="859.7233179083091"/>
+      <point x="289.6950808119414" y="867.0"/>
+      <point x="284.0" y="867.0" type="curve"/>
+      <point x="264.0751784444172" y="867.0" type="line"/>
+      <point x="262.73079498957014" y="867.0"/>
+      <point x="261.4253624977814" y="866.5484991053997"/>
+      <point x="260.3682491328258" y="865.7179100329346" type="curve"/>
+    </contour>
+    <contour>
+      <point x="574.6152975741027" y="765.3405909510807" type="line"/>
+      <point x="571.1286122978796" y="762.6010525197626"/>
+      <point x="573.0658095403896" y="757.0"/>
+      <point x="577.5" y="757.0" type="curve"/>
+      <point x="592.0357771430519" y="757.0" type="line"/>
+      <point x="593.3119371455127" y="757.0"/>
+      <point x="594.5548573233212" y="757.4068953704356"/>
+      <point x="595.5839591248169" y="758.1615700248658" type="curve"/>
+      <point x="729.4847100745973" y="856.3554540547046" type="line"/>
+      <point x="734.0772516931488" y="859.7233179083091"/>
+      <point x="731.6950808119415" y="867.0"/>
+      <point x="726.0" y="867.0" type="curve"/>
+      <point x="706.0751784444172" y="867.0" type="line"/>
+      <point x="704.7307949895702" y="867.0"/>
+      <point x="703.4253624977814" y="866.5484991053997"/>
+      <point x="702.3682491328258" y="865.7179100329346" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>IJ</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>IJ</string>
+    </dict>
+  </lib>
+</glyph>

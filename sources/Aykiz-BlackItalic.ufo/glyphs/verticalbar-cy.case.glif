@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="verticalbar-cy.case" format="2">
+  <advance width="322"/>
+  <anchor x="114" y="0" name="_bottom"/>
+  <outline>
+    <contour>
+      <point x="208.3062854312083" y="-29.251070819318088" type="line"/>
+      <point x="215.39625681599176" y="6.603927326586856"/>
+      <point x="187.95727546085323" y="40.0"/>
+      <point x="151.4080130020854" y="40.0" type="curve"/>
+      <point x="53.65413389056999" y="40.0" type="line"/>
+      <point x="25.959224710673844" y="40.0"/>
+      <point x="2.128230160026292" y="20.41990680927582"/>
+      <point x="-3.244138538552919" y="-6.748929180681905" type="curve"/>
+      <point x="-15.306285431208288" y="-67.74892918068191" type="line"/>
+      <point x="-22.39625681599175" y="-103.60392732658686"/>
+      <point x="5.042724539146789" y="-137.0"/>
+      <point x="41.59198699791462" y="-137.0" type="curve"/>
+      <point x="139.34586610943" y="-137.0" type="line"/>
+      <point x="167.04077528932615" y="-137.0"/>
+      <point x="190.8717698399737" y="-117.41990680927582"/>
+      <point x="196.24413853855293" y="-90.2510708193181" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

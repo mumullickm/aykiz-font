@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="descTail-cy" format="2">
+  <advance width="359"/>
+  <anchor x="38" y="0" name="_bottomleft"/>
+  <outline>
+    <contour>
+      <point x="97.7" y="-33.95" type="line"/>
+      <point x="91.59212570983317" y="-68.95281804749453"/>
+      <point x="118.53142697533524" y="-101.0"/>
+      <point x="154.06315082333464" y="-101.0" type="curve"/>
+      <point x="220.33687615520438" y="-101.0" type="line"/>
+      <point x="246.1919055425589" y="-101.0"/>
+      <point x="268.92477305694945" y="-83.88641362710058"/>
+      <point x="276.0749009057085" y="-59.039719352663056" type="curve"/>
+      <point x="322.6936059416797" y="102.96028064733697" type="line"/>
+      <point x="333.3627360163517" y="140.035507656822"/>
+      <point x="305.5354048604865" y="177.0"/>
+      <point x="266.9555811911756" y="177.0" type="curve"/>
+      <point x="96.0" y="177.0" type="line"/>
+      <point x="63.96748450981397" y="177.0"/>
+      <point x="38.0" y="151.03251549018603"/>
+      <point x="38.0" y="119.0" type="curve"/>
+      <point x="38.0" y="57.99999999999999" type="line"/>
+      <point x="38.0" y="25.96748450981397"/>
+      <point x="63.96748450981397" y="0.0"/>
+      <point x="96.0" y="0.0" type="curve"/>
+      <point x="184.25070342581603" y="0.0" type="line"/>
+      <point x="196.76931961560433" y="0.0"/>
+      <point x="199.72379289044892" y="17.487376385930816"/>
+      <point x="187.9" y="21.599999999999998" type="curve"/>
+      <point x="174.1" y="26.400000000000002" type="line"/>
+      <point x="141.55543128203647" y="37.71984998885688"/>
+      <point x="106.62088754552738" y="17.173547857060743"/>
+      <point x="100.6977496543663" y="-16.770588519208502" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

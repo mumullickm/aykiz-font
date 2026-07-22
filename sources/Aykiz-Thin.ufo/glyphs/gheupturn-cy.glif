@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gheupturn-cy" format="2">
+  <advance width="415"/>
+  <unicode hex="0491"/>
+  <outline>
+    <contour>
+      <point x="117.0" y="5.999999999999999" type="line"/>
+      <point x="117.0" y="2.6862915010152384"/>
+      <point x="119.68629150101523" y="0.0"/>
+      <point x="123.0" y="0.0" type="curve"/>
+      <point x="131.0" y="0.0" type="line"/>
+      <point x="134.31370849898477" y="0.0"/>
+      <point x="137.0" y="2.6862915010152384"/>
+      <point x="137.0" y="5.999999999999999" type="curve"/>
+      <point x="137.0" y="492.0" type="line"/>
+      <point x="137.0" y="495.31370849898474"/>
+      <point x="139.68629150101523" y="498.0"/>
+      <point x="143.0" y="498.0" type="curve"/>
+      <point x="412.0" y="498.0" type="line"/>
+      <point x="415.31370849898474" y="498.0"/>
+      <point x="418.0" y="500.68629150101526"/>
+      <point x="418.0" y="504.0" type="curve"/>
+      <point x="418.0" y="618.0" type="line"/>
+      <point x="418.0" y="621.3137084989847"/>
+      <point x="415.31370849898474" y="624.0"/>
+      <point x="412.0" y="624.0" type="curve"/>
+      <point x="405.0" y="624.0" type="line"/>
+      <point x="401.68629150101526" y="624.0"/>
+      <point x="399.0" y="621.3137084989847"/>
+      <point x="399.0" y="618.0" type="curve"/>
+      <point x="399.0" y="523.0" type="line"/>
+      <point x="399.0" y="519.6862915010153"/>
+      <point x="396.31370849898474" y="517.0"/>
+      <point x="393.0" y="517.0" type="curve"/>
+      <point x="123.0" y="517.0" type="line"/>
+      <point x="119.68629150101523" y="517.0"/>
+      <point x="117.0" y="514.3137084989847"/>
+      <point x="117.0" y="511.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <real>73.8</real>
+        <key>width</key>
+        <integer>78</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

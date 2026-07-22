@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="g.sc" format="2">
+  <advance width="666"/>
+  <anchor x="352" y="0" name="bottom"/>
+  <anchor x="366" y="583" name="top"/>
+  <outline>
+    <contour>
+      <point x="551" y="11"/>
+      <point x="626" y="59" type="curve"/>
+      <point x="498" y="208" type="line"/>
+      <point x="454" y="178"/>
+      <point x="417" y="165"/>
+      <point x="373" y="165" type="curve" smooth="yes"/>
+      <point x="299" y="165"/>
+      <point x="256" y="213"/>
+      <point x="256" y="291" type="curve" smooth="yes"/>
+      <point x="256" y="371"/>
+      <point x="304" y="417"/>
+      <point x="374" y="417" type="curve" smooth="yes"/>
+      <point x="421" y="417"/>
+      <point x="461" y="397"/>
+      <point x="495" y="354" type="curve"/>
+      <point x="646" y="479" type="line"/>
+      <point x="586" y="556"/>
+      <point x="497" y="597"/>
+      <point x="374" y="597" type="curve" smooth="yes"/>
+      <point x="168" y="597"/>
+      <point x="24" y="468"/>
+      <point x="24" y="291" type="curve" smooth="yes"/>
+      <point x="24" y="114"/>
+      <point x="159" y="-15"/>
+      <point x="369" y="-15" type="curve" smooth="yes"/>
+      <point x="447" y="-15"/>
+    </contour>
+    <contour>
+      <point x="427.0" y="114.88096222753248" type="line"/>
+      <point x="427.0" y="82.5064737157926"/>
+      <point x="453.5034622058708" y="56.399549681495536"/>
+      <point x="485.87427251829934" y="56.88755184700954" type="curve"/>
+      <point x="568.8742725182993" y="58.13880812841657" type="line"/>
+      <point x="600.5622803451847" y="58.61651678912339"/>
+      <point x="626.0" y="84.4406100675672"/>
+      <point x="626.0" y="116.13221850893952" type="curve"/>
+      <point x="626.0" y="246.0" type="line"/>
+      <point x="626.0" y="278.03251549018603"/>
+      <point x="600.032515490186" y="304.0"/>
+      <point x="568.0" y="304.0" type="curve"/>
+      <point x="485.0" y="304.0" type="line"/>
+      <point x="452.96748450981397" y="304.0"/>
+      <point x="427.0" y="278.03251549018603"/>
+      <point x="427.0" y="246.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>o.sc</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

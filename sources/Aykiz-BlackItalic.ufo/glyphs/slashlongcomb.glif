@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="slashlongcomb" format="2">
+  <unicode hex="0338"/>
+  <anchor x="328" y="274" name="_center"/>
+  <outline>
+    <contour>
+      <point x="20.227077808800363" y="-35.193672662024085" type="line"/>
+      <point x="8.65350202587598" y="-48.97656501296731"/>
+      <point x="18.452339653144275" y="-70.0"/>
+      <point x="36.45" y="-70.0" type="curve"/>
+      <point x="64.96671154204296" y="-70.0" type="line"/>
+      <point x="82.10388495424293" y="-70.0"/>
+      <point x="98.36379591742974" y="-62.42139890743919"/>
+      <point x="109.3840269568417" y="-49.29748103213248" type="curve"/>
+      <point x="633.7729221911997" y="575.193672662024" type="line"/>
+      <point x="645.3464979741241" y="588.9765650129673"/>
+      <point x="635.5476603468558" y="610.0"/>
+      <point x="617.55" y="610.0" type="curve"/>
+      <point x="589.033288457957" y="610.0" type="line"/>
+      <point x="571.896115045757" y="610.0"/>
+      <point x="555.6362040825703" y="602.4213989074392"/>
+      <point x="544.6159730431583" y="589.2974810321325" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>648</integer>
+    </dict>
+  </lib>
+</glyph>

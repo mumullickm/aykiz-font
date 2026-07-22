@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="schwa.sc" format="2">
+  <advance width="665"/>
+  <anchor x="282" y="0" name="bottom"/>
+  <anchor x="392" y="559" name="top"/>
+  <outline>
+    <contour>
+      <point x="296" y="-3" type="curve" smooth="yes"/>
+      <point x="493" y="-3"/>
+      <point x="618" y="155"/>
+      <point x="618" y="335" type="curve" smooth="yes"/>
+      <point x="618" y="471"/>
+      <point x="530" y="562"/>
+      <point x="375" y="562" type="curve" smooth="yes"/>
+      <point x="292" y="562"/>
+      <point x="217" y="534"/>
+      <point x="172" y="492" type="curve"/>
+      <point x="183" y="477" type="line"/>
+      <point x="228" y="518"/>
+      <point x="293" y="543"/>
+      <point x="373" y="543" type="curve" smooth="yes"/>
+      <point x="519" y="543"/>
+      <point x="599" y="459"/>
+      <point x="599" y="335" type="curve" smooth="yes"/>
+      <point x="599" y="163"/>
+      <point x="478" y="16"/>
+      <point x="298" y="16" type="curve" smooth="yes"/>
+      <point x="159" y="16"/>
+      <point x="72" y="98"/>
+      <point x="72" y="220" type="curve" smooth="yes"/>
+      <point x="72" y="239"/>
+      <point x="74" y="258"/>
+      <point x="78" y="279" type="curve"/>
+      <point x="73.05" y="274.6" type="line"/>
+      <point x="71.63412089510045" y="273.34144079564487"/>
+      <point x="72.52433509892502" y="271.0"/>
+      <point x="74.41871756045653" y="271.0" type="curve"/>
+      <point x="591.1869703618047" y="271.0" type="line"/>
+      <point x="593.9991622520118" y="271.0"/>
+      <point x="596.434042648692" y="272.95319191911364"/>
+      <point x="597.0440927229084" y="275.69841725308805" type="curve"/>
+      <point x="598.3774260562418" y="281.69841725308805" type="line"/>
+      <point x="599.2101109362443" y="285.44549921309954"/>
+      <point x="596.3587913301876" y="289.0"/>
+      <point x="592.5203036951381" y="289.0" type="curve"/>
+      <point x="60" y="289" type="line"/>
+      <point x="54" y="262"/>
+      <point x="52" y="241"/>
+      <point x="52" y="219" type="curve" smooth="yes"/>
+      <point x="52" y="89"/>
+      <point x="143" y="-3"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>o.sc</string>
+    </dict>
+  </lib>
+</glyph>

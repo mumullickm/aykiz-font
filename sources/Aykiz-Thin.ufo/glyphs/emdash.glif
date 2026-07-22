@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="emdash" format="2">
+  <advance width="1000"/>
+  <unicode hex="2014"/>
+  <outline>
+    <contour>
+      <point x="0.0" y="261.0" type="line"/>
+      <point x="0.0" y="257.68629150101526"/>
+      <point x="2.6862915010152384" y="255.0"/>
+      <point x="5.999999999999999" y="255.0" type="curve"/>
+      <point x="994.0" y="255.0" type="line"/>
+      <point x="997.3137084989847" y="255.0"/>
+      <point x="1000.0" y="257.68629150101526"/>
+      <point x="1000.0" y="261.0" type="curve"/>
+      <point x="1000.0" y="268.0" type="line"/>
+      <point x="1000.0" y="271.31370849898474"/>
+      <point x="997.3137084989847" y="274.0"/>
+      <point x="994.0" y="274.0" type="curve"/>
+      <point x="5.999999999999999" y="274.0" type="line"/>
+      <point x="2.6862915010152384" y="274.0"/>
+      <point x="0.0" y="271.31370849898474"/>
+      <point x="0.0" y="268.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

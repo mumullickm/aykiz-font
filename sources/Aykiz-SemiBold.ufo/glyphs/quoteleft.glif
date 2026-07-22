@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quoteleft" format="2">
+  <advance width="235"/>
+  <unicode hex="2018"/>
+  <outline>
+    <contour>
+      <point x="176.14839388748186" y="711.0297758895117" type="line"/>
+      <point x="180.13137918241046" y="726.7404401083968"/>
+      <point x="168.2576877455784" y="742.0"/>
+      <point x="152.05" y="742.0" type="curve"/>
+      <point x="132.77928091409973" y="742.0" type="line"/>
+      <point x="120.92300400489057" y="742.0"/>
+      <point x="110.3519868579359" y="734.5326029393792"/>
+      <point x="106.38940182678385" y="723.3581131515305" type="curve"/>
+      <point x="63" y="601" type="line"/>
+      <point x="47" y="559"/>
+      <point x="43" y="543"/>
+      <point x="43" y="522" type="curve" smooth="yes"/>
+      <point x="43" y="478"/>
+      <point x="74" y="447"/>
+      <point x="117" y="447" type="curve" smooth="yes"/>
+      <point x="158" y="447"/>
+      <point x="190" y="477"/>
+      <point x="190" y="522" type="curve" smooth="yes"/>
+      <point x="190" y="567"/>
+      <point x="159" y="596"/>
+      <point x="116" y="596" type="curve"/>
+      <point x="123.7" y="559.15" type="line"/>
+      <point x="125.24393461437487" y="551.7611700597774"/>
+      <point x="135.7142892559383" y="551.5396965095345"/>
+      <point x="137.56928666734035" y="558.8566307433981" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>period</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>period</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

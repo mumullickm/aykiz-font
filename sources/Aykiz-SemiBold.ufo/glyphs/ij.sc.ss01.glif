@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ij.sc.ss01" format="2">
+  <advance width="625"/>
+  <anchor x="141" y="570" name="top"/>
+  <outline>
+    <contour>
+      <point x="281" y="-87" type="curve" smooth="yes"/>
+      <point x="438" y="-87"/>
+      <point x="539" y="4"/>
+      <point x="539" y="176" type="curve" smooth="yes"/>
+      <point x="539.0" y="542.0" type="line"/>
+      <point x="539.0" y="557.4639729952622"/>
+      <point x="526.4639729952622" y="570.0"/>
+      <point x="511.0" y="570.0" type="curve"/>
+      <point x="455.0" y="570.0" type="line"/>
+      <point x="439.5360270047378" y="570.0"/>
+      <point x="427.0" y="557.4639729952622"/>
+      <point x="427.0" y="542.0" type="curve"/>
+      <point x="427" y="170" type="line" smooth="yes"/>
+      <point x="427" y="59"/>
+      <point x="372" y="9"/>
+      <point x="279" y="9" type="curve" smooth="yes"/>
+      <point x="218" y="9"/>
+      <point x="162" y="27"/>
+      <point x="116" y="61" type="curve"/>
+      <point x="69" y="-26" type="line"/>
+      <point x="119" y="-63"/>
+      <point x="193" y="-87"/>
+    </contour>
+    <contour>
+      <point x="85.0" y="205.0" type="line"/>
+      <point x="85.0" y="189.53602700473778"/>
+      <point x="97.53602700473778" y="177.0"/>
+      <point x="113.0" y="177.0" type="curve"/>
+      <point x="169.0" y="177.0" type="line"/>
+      <point x="184.46397299526222" y="177.0"/>
+      <point x="197.0" y="189.53602700473778"/>
+      <point x="197.0" y="205.0" type="curve"/>
+      <point x="197.0" y="542.0" type="line"/>
+      <point x="197.0" y="557.4639729952622"/>
+      <point x="184.46397299526222" y="570.0"/>
+      <point x="169.0" y="570.0" type="curve"/>
+      <point x="113.0" y="570.0" type="line"/>
+      <point x="97.53602700473778" y="570.0"/>
+      <point x="85.0" y="557.4639729952622"/>
+      <point x="85.0" y="542.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>ij.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>u.sc</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

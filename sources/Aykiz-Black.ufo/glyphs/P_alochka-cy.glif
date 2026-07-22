@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Palochka-cy" format="2">
+  <advance width="360"/>
+  <unicode hex="04C0"/>
+  <anchor x="180" y="0" name="bottom"/>
+  <anchor x="298" y="0" name="ogonek"/>
+  <anchor x="180" y="700" name="top"/>
+  <anchor x="-4" y="700" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="62.0" y="57.99999999999999" type="line"/>
+      <point x="62.0" y="25.96748450981397"/>
+      <point x="87.96748450981397" y="0.0"/>
+      <point x="120.0" y="0.0" type="curve"/>
+      <point x="240.0" y="0.0" type="line"/>
+      <point x="272.03251549018603" y="0.0"/>
+      <point x="298.0" y="25.96748450981397"/>
+      <point x="298.0" y="57.99999999999999" type="curve"/>
+      <point x="298.0" y="642.0" type="line"/>
+      <point x="298.0" y="674.032515490186"/>
+      <point x="272.03251549018603" y="700.0"/>
+      <point x="240.0" y="700.0" type="curve"/>
+      <point x="120.0" y="700.0" type="line"/>
+      <point x="87.96748450981397" y="700.0"/>
+      <point x="62.0" y="674.032515490186"/>
+      <point x="62.0" y="642.0" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

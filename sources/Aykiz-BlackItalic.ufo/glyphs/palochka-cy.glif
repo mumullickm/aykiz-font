@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="palochka-cy" format="2">
+  <advance width="332"/>
+  <unicode hex="04CF"/>
+  <anchor x="111" y="0" name="bottom"/>
+  <anchor x="185" y="370" name="center"/>
+  <anchor x="438" y="370" name="dot"/>
+  <anchor x="259" y="742" name="top"/>
+  <anchor x="442" y="742" name="topright"/>
+  <outline>
+    <contour>
+      <point x="11.83166727737765" y="69.34525080955551" type="line"/>
+      <point x="4.674686796240442" y="33.463632451421674"/>
+      <point x="32.122809683139344" y="0.0"/>
+      <point x="68.71123552528437" y="0.0" type="curve"/>
+      <point x="176.42623078199324" y="0.0" type="line"/>
+      <point x="204.0850339417862" y="0.0"/>
+      <point x="227.8955221516245" y="19.530252949360637"/>
+      <point x="233.3057990299" y="46.654749190444484" type="curve"/>
+      <point x="358.1683327226223" y="672.6547491904445" type="line"/>
+      <point x="365.32531320375955" y="708.5363675485784"/>
+      <point x="337.87719031686066" y="742.0"/>
+      <point x="301.28876447471566" y="742.0" type="curve"/>
+      <point x="193.57376921800676" y="742.0" type="line"/>
+      <point x="165.9149660582138" y="742.0"/>
+      <point x="142.1044778483755" y="722.4697470506394"/>
+      <point x="136.6942009701" y="695.3452508095555" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

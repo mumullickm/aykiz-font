@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="slashlongcomb.sc" format="2">
+  <anchor x="337" y="291" name="_center"/>
+  <outline>
+    <contour>
+      <point x="56.799842737026474" y="-12.302813911288453" type="line"/>
+      <point x="43.09168395020694" y="-31.401206791927248"/>
+      <point x="56.741230828733464" y="-58.0"/>
+      <point x="80.25" y="-58.0" type="curve"/>
+      <point x="119.23647979960742" y="-58.0" type="line"/>
+      <point x="137.92057307874825" y="-58.0"/>
+      <point x="155.4605059668166" y="-48.999135399524945"/>
+      <point x="166.35535612219" y="-33.82028228884508" type="curve"/>
+      <point x="617.2001572629736" y="594.3028139112885" type="line"/>
+      <point x="630.908316049793" y="613.4012067919273"/>
+      <point x="617.2587691712665" y="640.0"/>
+      <point x="593.75" y="640.0" type="curve"/>
+      <point x="554.7635202003926" y="640.0" type="line"/>
+      <point x="536.0794269212518" y="640.0"/>
+      <point x="518.5394940331834" y="630.9991353995249"/>
+      <point x="507.64464387781" y="615.8202822888451" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>648</integer>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

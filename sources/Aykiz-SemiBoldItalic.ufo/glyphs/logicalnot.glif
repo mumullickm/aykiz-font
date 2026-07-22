@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="logicalnot" format="2">
+  <advance width="588"/>
+  <unicode hex="00AC"/>
+  <outline>
+    <contour>
+      <point x="539.5323313659502" y="362.66663088605105" type="line"/>
+      <point x="542.8854376824285" y="379.94802497866965"/>
+      <point x="529.6486575317056" y="396.0"/>
+      <point x="512.0449674709824" y="396.0" type="curve"/>
+      <point x="114.9545092761196" y="396.0" type="line"/>
+      <point x="101.6074407150862" y="396.0"/>
+      <point x="90.11582585838806" y="386.5791292919403"/>
+      <point x="87.49825035677384" y="373.49125178386913" type="curve"/>
+      <point x="80.69825035677383" y="339.49125178386913" type="line"/>
+      <point x="77.23301555736602" y="322.16507778683007"/>
+      <point x="90.48520941475837" y="306.0"/>
+      <point x="108.15450927611958" y="306.0" type="curve"/>
+      <point x="399.7701628539099" y="306.0" type="line"/>
+      <point x="417.46414282260724" y="306.0"/>
+      <point x="430.7220382037241" y="289.79230000730246"/>
+      <point x="427.21449760638774" y="272.4494603871393" type="curve"/>
+      <point x="404.78550239361226" y="161.5505396128607" type="line"/>
+      <point x="401.2779617962759" y="144.2076999926975"/>
+      <point x="414.53585717739276" y="128.0"/>
+      <point x="432.2298371460901" y="128.0" type="curve"/>
+      <point x="470.91063911277354" y="128.0" type="line"/>
+      <point x="484.3182339065571" y="128.0"/>
+      <point x="495.84415829468736" y="137.50450813415804"/>
+      <point x="498.39800300774124" y="150.66663088605102" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>minus</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>minus</string>
+    </dict>
+  </lib>
+</glyph>

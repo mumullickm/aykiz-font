@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncomb.alt" format="2">
+  <anchor x="387" y="700" name="_topright"/>
+  <outline>
+    <contour>
+      <point x="361.6982503567738" y="573.4912517838692" type="line"/>
+      <point x="358.233015557366" y="556.1650777868301"/>
+      <point x="371.4852094147584" y="540.0"/>
+      <point x="389.1545092761196" y="540.0" type="curve"/>
+      <point x="409.59446755953155" y="540.0" type="line"/>
+      <point x="422.2301264259981" y="540.0"/>
+      <point x="433.3001610236083" y="548.4628565962947"/>
+      <point x="436.61423958893874" y="560.6561645253406" type="curve"/>
+      <point x="474.3937267684259" y="699.6561645253406" type="line"/>
+      <point x="479.23341233892637" y="717.4625548318988"/>
+      <point x="465.8263283579004" y="735.0"/>
+      <point x="447.37395473901876" y="735.0" type="curve"/>
+      <point x="416.9545092761196" y="735.0" type="line"/>
+      <point x="403.6074407150862" y="735.0"/>
+      <point x="392.11582585838806" y="725.5791292919403"/>
+      <point x="389.49825035677384" y="712.4912517838692" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

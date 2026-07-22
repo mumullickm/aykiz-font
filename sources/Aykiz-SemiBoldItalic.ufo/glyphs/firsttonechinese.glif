@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="firsttonechinese" format="2">
+  <advance width="600"/>
+  <unicode hex="02C9"/>
+  <outline>
+    <contour>
+      <point x="212.85" y="670.6" type="line"/>
+      <point x="209.81403010831318" y="654.7195421050228"/>
+      <point x="221.98611641593754" y="640.0"/>
+      <point x="238.15417307520775" y="640.0" type="curve"/>
+      <point x="520.8458547024243" y="640.0" type="line"/>
+      <point x="534.2824475741751" y="640.0"/>
+      <point x="545.8247212517515" y="649.5446957783923"/>
+      <point x="548.3477883256227" y="662.742277395565" type="curve"/>
+      <point x="551.15" y="677.4" type="line"/>
+      <point x="554.1859698916868" y="693.2804578949772"/>
+      <point x="542.0138835840625" y="708.0"/>
+      <point x="525.8458269247923" y="708.0" type="curve"/>
+      <point x="243.15414529757572" y="708.0" type="line"/>
+      <point x="229.71755242582486" y="708.0"/>
+      <point x="218.1752787482485" y="698.4553042216077"/>
+      <point x="215.65221167437727" y="685.257722604435" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

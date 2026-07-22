@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecomb.loclVIET" format="2">
+  <anchor x="355" y="547" name="_top"/>
+  <anchor x="392" y="730" name="top"/>
+  <outline>
+    <contour>
+      <point x="306.1390822519854" y="658.7075921789492" type="line"/>
+      <point x="288.28823413793674" y="638.7023313614809"/>
+      <point x="302.4883749323961" y="607.0"/>
+      <point x="329.3" y="607.0" type="curve"/>
+      <point x="395.32958518782715" y="607.0" type="line"/>
+      <point x="407.4697811705414" y="607.0"/>
+      <point x="419.3039397183478" y="610.8094594662167"/>
+      <point x="429.164385339369" y="617.8915474813148" type="curve"/>
+      <point x="514.956241453165" y="679.5100076735439" type="line"/>
+      <point x="539.9884689014469" y="697.4889555645751"/>
+      <point x="527.2697173622819" y="737.0"/>
+      <point x="496.45" y="737.0" type="curve"/>
+      <point x="401.97941951610994" y="737.0" type="line"/>
+      <point x="385.4509745134046" y="737.0"/>
+      <point x="369.70765814667544" y="729.9482375781707"/>
+      <point x="358.7032240416648" y="717.6156821156587" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>weight</key>
+        <integer>-20</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

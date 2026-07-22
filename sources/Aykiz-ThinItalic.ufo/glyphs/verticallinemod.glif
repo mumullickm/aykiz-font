@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="verticallinemod" format="2">
+  <advance width="154"/>
+  <unicode hex="02C8"/>
+  <outline>
+    <contour>
+      <point x="120.43533936216582" y="526.1766968108291" type="line"/>
+      <point x="119.692789048007" y="522.4639452400351"/>
+      <point x="122.53254487459108" y="519.0"/>
+      <point x="126.31882341631135" y="519.0" type="curve"/>
+      <point x="134.08117658368866" y="519.0" type="line"/>
+      <point x="136.9412627039101" y="519.0"/>
+      <point x="139.403751601774" y="521.0187580088699"/>
+      <point x="139.96466063783419" y="523.8233031891709" type="curve"/>
+      <point x="173.56466063783418" y="691.8233031891709" type="line"/>
+      <point x="174.307210951993" y="695.5360547599649"/>
+      <point x="171.46745512540892" y="699.0"/>
+      <point x="167.68117658368865" y="699.0" type="curve"/>
+      <point x="159.91882341631134" y="699.0" type="line"/>
+      <point x="157.0587372960899" y="699.0"/>
+      <point x="154.596248398226" y="696.9812419911301"/>
+      <point x="154.03533936216581" y="694.1766968108291" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=H*0.5</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=H*0.5</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guilsinglright" format="2">
+  <advance width="319"/>
+  <unicode hex="203A"/>
+  <outline>
+    <contour>
+      <point x="117.94147173543698" y="74.0" type="line"/>
+      <point x="126.7876098007661" y="74.0"/>
+      <point x="135.1134821920977" y="78.18033972645286"/>
+      <point x="140.3974867049003" y="85.2749471842018" type="curve"/>
+      <point x="262.57562103709756" y="249.31831635750166" type="line"/>
+      <point x="269.95221735571215" y="259.22255756850865"/>
+      <point x="269.9690866500766" y="272.78997396178477"/>
+      <point x="262.6171423387838" y="282.7125281721309" type="curve"/>
+      <point x="140.3953899645967" y="447.66915899883105" type="line"/>
+      <point x="135.11444899289287" y="454.79658282777393"/>
+      <point x="126.76850800888539" y="459.0"/>
+      <point x="117.89785369344713" y="459.0" type="curve"/>
+      <point x="77.0" y="459.0" type="line"/>
+      <point x="58.25619274490208" y="459.0"/>
+      <point x="47.416946762102285" y="437.746637677959"/>
+      <point x="58.42281807705362" y="422.5742579366332" type="curve"/>
+      <point x="160.04295481596432" y="282.48364086084916" type="line"/>
+      <point x="167.17138431221454" y="272.6565916267328"/>
+      <point x="167.1549503111789" y="259.35536042675966"/>
+      <point x="160.00225948926135" y="249.54595587098697" type="curve"/>
+      <point x="58.51274708522489" y="110.36033885973698" type="line"/>
+      <point x="47.4878332187197" y="95.24045698567274"/>
+      <point x="58.28744930135085" y="74.0"/>
+      <point x="77.0" y="74.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=|guilsinglleft</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|guilsinglleft</string>
+    </dict>
+  </lib>
+</glyph>

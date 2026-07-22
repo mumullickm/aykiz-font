@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ghestroke-cy.loclBSH" format="2">
+  <advance width="593"/>
+  <outline>
+    <contour>
+      <point x="162.24557617482594" y="313.17962342876274" type="line"/>
+      <point x="159.00092040865104" y="295.9423896709587"/>
+      <point x="172.22237071823193" y="280.0"/>
+      <point x="189.76232564012818" y="280.0" type="curve"/>
+      <point x="478.77885083046004" y="280.0" type="line"/>
+      <point x="492.24538104074975" y="280.0"/>
+      <point x="503.80447331785666" y="289.5862645011134"/>
+      <point x="506.2956002957623" y="302.8203765712372" type="curve"/>
+      <point x="511.75442382517406" y="331.82037657123726" type="line"/>
+      <point x="514.999079591349" y="349.0576103290413"/>
+      <point x="501.7776292817681" y="365.0"/>
+      <point x="484.23767435987185" y="365.0" type="curve"/>
+      <point x="195.22114916953996" y="365.0" type="line"/>
+      <point x="181.75461895925025" y="365.0"/>
+      <point x="170.19552668214334" y="355.4137354988866"/>
+      <point x="167.7043997042377" y="342.1796234287628" type="curve"/>
+    </contour>
+    <component base="Ge-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

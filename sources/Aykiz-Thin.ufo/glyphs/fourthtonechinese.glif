@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fourthtonechinese" format="2">
+  <advance width="600"/>
+  <unicode hex="02CB"/>
+  <outline>
+    <contour>
+      <point x="313.41604087518306" y="608.1615700248658" type="line"/>
+      <point x="314.44514267667876" y="607.4068953704356"/>
+      <point x="315.6880628544872" y="607.0"/>
+      <point x="316.96422285694814" y="607.0" type="curve"/>
+      <point x="331.5" y="607.0" type="line"/>
+      <point x="335.93419045961036" y="607.0"/>
+      <point x="337.87138770212033" y="612.6010525197626"/>
+      <point x="334.3847024258973" y="615.3405909510807" type="curve"/>
+      <point x="206.63175086717422" y="715.7179100329346" type="line"/>
+      <point x="205.57463750221856" y="716.5484991053997"/>
+      <point x="204.26920501042983" y="717.0"/>
+      <point x="202.9248215555828" y="717.0" type="curve"/>
+      <point x="183.0" y="717.0" type="line"/>
+      <point x="177.30491918805856" y="717.0"/>
+      <point x="174.92274830685116" y="709.7233179083091"/>
+      <point x="179.5152899254027" y="706.3554540547046" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

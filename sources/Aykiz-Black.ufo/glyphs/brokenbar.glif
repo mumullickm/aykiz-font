@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brokenbar" format="2">
+  <advance width="320"/>
+  <unicode hex="00A6"/>
+  <outline>
+    <contour>
+      <point x="57.0" y="450.0" type="line"/>
+      <point x="57.0" y="417.96748450981397"/>
+      <point x="82.96748450981397" y="392.0"/>
+      <point x="115.0" y="392.0" type="curve"/>
+      <point x="205.0" y="392.0" type="line"/>
+      <point x="237.03251549018603" y="392.0"/>
+      <point x="263.0" y="417.96748450981397"/>
+      <point x="263.0" y="450.0" type="curve"/>
+      <point x="263.0" y="684.0" type="line"/>
+      <point x="263.0" y="716.032515490186"/>
+      <point x="237.03251549018603" y="742.0"/>
+      <point x="205.0" y="742.0" type="curve"/>
+      <point x="115.0" y="742.0" type="line"/>
+      <point x="82.96748450981397" y="742.0"/>
+      <point x="57.0" y="716.032515490186"/>
+      <point x="57.0" y="684.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="57.0" y="-136.0" type="line"/>
+      <point x="57.0" y="-168.03251549018603"/>
+      <point x="82.96748450981397" y="-194.0"/>
+      <point x="115.0" y="-194.0" type="curve"/>
+      <point x="205.0" y="-194.0" type="line"/>
+      <point x="237.03251549018603" y="-194.0"/>
+      <point x="263.0" y="-168.03251549018603"/>
+      <point x="263.0" y="-136.0" type="curve"/>
+      <point x="263.0" y="98.0" type="line"/>
+      <point x="263.0" y="130.03251549018603"/>
+      <point x="237.03251549018603" y="156.0"/>
+      <point x="205.0" y="156.0" type="curve"/>
+      <point x="115.0" y="156.0" type="line"/>
+      <point x="82.96748450981397" y="156.0"/>
+      <point x="57.0" y="130.03251549018603"/>
+      <point x="57.0" y="98.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="verticalbar-cy" format="2">
+  <advance width="266"/>
+  <anchor x="133" y="0" name="_bottom"/>
+  <outline>
+    <contour>
+      <point x="143.0" y="4.000000000000001" type="line"/>
+      <point x="143.0" y="7.313708498984761"/>
+      <point x="140.31370849898477" y="10.0"/>
+      <point x="137.0" y="10.0" type="curve"/>
+      <point x="129.0" y="10.0" type="line"/>
+      <point x="125.68629150101523" y="10.0"/>
+      <point x="123.0" y="7.313708498984761"/>
+      <point x="123.0" y="4.000000000000001" type="curve"/>
+      <point x="123.0" y="-115.0" type="line"/>
+      <point x="123.0" y="-118.31370849898477"/>
+      <point x="125.68629150101523" y="-121.0"/>
+      <point x="129.0" y="-121.0" type="curve"/>
+      <point x="137.0" y="-121.0" type="line"/>
+      <point x="140.31370849898477" y="-121.0"/>
+      <point x="143.0" y="-118.31370849898477"/>
+      <point x="143.0" y="-115.0" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

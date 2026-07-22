@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tetse-cy" format="2">
+  <advance width="830"/>
+  <unicode hex="04B5"/>
+  <outline>
+    <contour>
+      <point x="179.0" y="57.99999999999999" type="line"/>
+      <point x="179.0" y="25.96748450981397"/>
+      <point x="204.96748450981397" y="0.0"/>
+      <point x="237.0" y="0.0" type="curve"/>
+      <point x="693.0" y="0.0" type="line"/>
+      <point x="725.032515490186" y="0.0"/>
+      <point x="751.0" y="25.96748450981397"/>
+      <point x="751.0" y="57.99999999999999" type="curve"/>
+      <point x="751.0" y="489.0" type="line"/>
+      <point x="751.0" y="521.032515490186"/>
+      <point x="725.032515490186" y="547.0"/>
+      <point x="693.0" y="547.0" type="curve"/>
+      <point x="584.0" y="547.0" type="line"/>
+      <point x="551.967484509814" y="547.0"/>
+      <point x="526.0" y="521.032515490186"/>
+      <point x="526.0" y="489.0" type="curve"/>
+      <point x="526.0" y="231.9" type="line"/>
+      <point x="526.0" y="201.57956723428944"/>
+      <point x="501.4204327657106" y="177.0"/>
+      <point x="471.1" y="177.0" type="curve"/>
+      <point x="458.9" y="177.0" type="line"/>
+      <point x="428.5795672342894" y="177.0"/>
+      <point x="404.0" y="201.57956723428944"/>
+      <point x="404.0" y="231.9" type="curve"/>
+      <point x="404.0" y="489.0" type="line"/>
+      <point x="404.0" y="521.032515490186"/>
+      <point x="378.03251549018603" y="547.0"/>
+      <point x="346.0" y="547.0" type="curve"/>
+      <point x="237.0" y="547.0" type="line"/>
+      <point x="204.96748450981397" y="547.0"/>
+      <point x="179.0" y="521.032515490186"/>
+      <point x="179.0" y="489.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="609.0" y="-43.00000000000001" type="line"/>
+      <point x="609.0" y="-75.03251549018603"/>
+      <point x="634.967484509814" y="-101.0"/>
+      <point x="667.0" y="-101.0" type="curve"/>
+      <point x="760.0" y="-101.0" type="line"/>
+      <point x="792.032515490186" y="-101.0"/>
+      <point x="818.0" y="-75.03251549018603"/>
+      <point x="818.0" y="-43.00000000000001" type="curve"/>
+      <point x="818.0" y="119.0" type="line"/>
+      <point x="818.0" y="151.03251549018603"/>
+      <point x="792.032515490186" y="177.0"/>
+      <point x="760.0" y="177.0" type="curve"/>
+      <point x="585.0" y="177.0" type="line"/>
+      <point x="552.967484509814" y="177.0"/>
+      <point x="527.0" y="151.03251549018603"/>
+      <point x="527.0" y="119.0" type="curve"/>
+      <point x="527.0" y="57.99999999999999" type="line"/>
+      <point x="527.0" y="25.96748450981397"/>
+      <point x="552.967484509814" y="0.0"/>
+      <point x="585.0" y="0.0" type="curve"/>
+      <point x="626.4529870527412" y="0.0" type="line"/>
+      <point x="637.7255945920892" y="0.0"/>
+      <point x="643.3709372327277" y="13.62906276727233"/>
+      <point x="635.4" y="21.6" type="curve"/>
+      <point x="630.6" y="26.4" type="line"/>
+      <point x="622.6290627672723" y="34.37093723272767"/>
+      <point x="609.0" y="28.725594592089283"/>
+      <point x="609.0" y="17.452987052741143" type="curve"/>
+    </contour>
+    <contour>
+      <point x="483.0" y="489.0" type="line"/>
+      <point x="483.0" y="521.032515490186"/>
+      <point x="457.03251549018603" y="547.0"/>
+      <point x="425.0" y="547.0" type="curve"/>
+      <point x="70.0" y="547.0" type="line"/>
+      <point x="37.96748450981397" y="547.0"/>
+      <point x="12.0" y="521.032515490186"/>
+      <point x="12.0" y="489.0" type="curve"/>
+      <point x="12.0" y="429.0" type="line"/>
+      <point x="12.0" y="396.96748450981397"/>
+      <point x="37.96748450981397" y="371.0"/>
+      <point x="70.0" y="371.0" type="curve"/>
+      <point x="425.0" y="371.0" type="line"/>
+      <point x="457.03251549018603" y="371.0"/>
+      <point x="483.0" y="396.96748450981397"/>
+      <point x="483.0" y="429.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <real>78.2</real>
+        <key>weight</key>
+        <integer>-7</integer>
+        <key>width</key>
+        <integer>85</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="descender-cy.short" format="2">
+  <advance width="318"/>
+  <anchor x="62" y="0" name="_bottomleft"/>
+  <outline>
+    <contour>
+      <point x="129.0" y="-84.0" type="line"/>
+      <point x="129.0" y="-99.46397299526222"/>
+      <point x="141.53602700473778" y="-112.0"/>
+      <point x="157.0" y="-112.0" type="curve"/>
+      <point x="201.0" y="-112.0" type="line"/>
+      <point x="216.46397299526222" y="-112.0"/>
+      <point x="229.0" y="-99.46397299526222"/>
+      <point x="229.0" y="-84.0" type="curve"/>
+      <point x="229.0" y="66.0" type="line"/>
+      <point x="229.0" y="81.46397299526222"/>
+      <point x="216.46397299526222" y="94.0"/>
+      <point x="201.0" y="94.0" type="curve"/>
+      <point x="90.0" y="94.0" type="line"/>
+      <point x="74.53602700473778" y="94.0"/>
+      <point x="62.0" y="81.46397299526222"/>
+      <point x="62.0" y="66.0" type="curve"/>
+      <point x="62.0" y="27.999999999999996" type="line"/>
+      <point x="62.0" y="12.536027004737779"/>
+      <point x="74.53602700473778" y="0.0"/>
+      <point x="90.0" y="0.0" type="curve"/>
+      <point x="138.1325016674078" y="0.0" type="line"/>
+      <point x="144.45870509481298" y="0.0"/>
+      <point x="147.6881184181072" y="7.593107796580979"/>
+      <point x="143.3" y="12.150000000000002" type="curve"/>
+      <point x="140.7" y="14.849999999999998" type="line"/>
+      <point x="136.4541107061314" y="19.25919272824818"/>
+      <point x="129.0" y="16.25365812763858"/>
+      <point x="129.0" y="10.13250166740782" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

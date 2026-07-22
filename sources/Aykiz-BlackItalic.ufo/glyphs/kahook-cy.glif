@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kahook-cy" format="2">
+  <advance width="691"/>
+  <unicode hex="04C4"/>
+  <guideline x="635" y="361" angle="90"/>
+  <outline>
+    <contour>
+      <point x="347" y="-206" type="curve" smooth="yes"/>
+      <point x="491" y="-206"/>
+      <point x="621" y="-119"/>
+      <point x="621" y="35" type="curve" smooth="yes"/>
+      <point x="621" y="121"/>
+      <point x="559" y="214"/>
+      <point x="448" y="344" type="curve"/>
+      <point x="259" y="251" type="line"/>
+      <point x="335" y="156"/>
+      <point x="393" y="78"/>
+      <point x="393" y="24" type="curve" smooth="yes"/>
+      <point x="393" y="-12"/>
+      <point x="373" y="-33"/>
+      <point x="339" y="-33" type="curve" smooth="yes"/>
+      <point x="325" y="-33"/>
+      <point x="310" y="-29"/>
+      <point x="294" y="-21" type="curve"/>
+      <point x="209" y="-177" type="line"/>
+      <point x="253" y="-196"/>
+      <point x="301" y="-206"/>
+    </contour>
+    <contour>
+      <point x="11.963102723674067" y="69.4347017259065" type="line"/>
+      <point x="4.742354953928577" y="33.52789236180847"/>
+      <point x="32.19910695544227" y="0.0"/>
+      <point x="68.82475585159102" y="0.0" type="curve"/>
+      <point x="176.50248363652597" y="0.0" type="line"/>
+      <point x="204.1269926328384" y="0.0"/>
+      <point x="227.91796399379717" y="19.48296640551863"/>
+      <point x="233.36413676444292" y="46.56529827409348" type="curve"/>
+      <point x="320.03689727632593" y="477.5652982740935" type="line"/>
+      <point x="327.25764504607145" y="513.4721076381916"/>
+      <point x="299.8008930445577" y="547.0"/>
+      <point x="263.175244148409" y="547.0" type="curve"/>
+      <point x="155.49751636347403" y="547.0" type="line"/>
+      <point x="127.87300736716158" y="547.0"/>
+      <point x="104.08203600620284" y="527.5170335944814"/>
+      <point x="98.63586323555707" y="500.4347017259065" type="curve"/>
+    </contour>
+    <contour>
+      <point x="208.59702917697493" y="251.18488375343125" type="line"/>
+      <point x="201.55407056626422" y="215.34865317540323"/>
+      <point x="228.9865930861112" y="182.0"/>
+      <point x="265.50834945178696" y="182.0" type="curve"/>
+      <point x="351.28933840948474" y="182.0" type="line"/>
+      <point x="379.00962121671284" y="182.0"/>
+      <point x="402.8550010841056" y="201.61515257500798"/>
+      <point x="408.20065868429674" y="228.81511624656875" type="curve"/>
+      <point x="419.40297082302504" y="285.8151162465688" type="line"/>
+      <point x="426.4459294337358" y="321.65134682459677"/>
+      <point x="399.0134069138888" y="355.0"/>
+      <point x="362.49165054821304" y="355.0" type="curve"/>
+      <point x="276.71066159051526" y="355.0" type="line"/>
+      <point x="248.99037878328716" y="355.0"/>
+      <point x="225.14499891589438" y="335.384847424992"/>
+      <point x="219.79934131570326" y="308.1848837534313" type="curve"/>
+    </contour>
+    <contour>
+      <point x="453.77863069335314" y="249.24809109370503" type="line"/>
+      <point x="472.7054445249715" y="247.2139008220825"/>
+      <point x="491.42560458605124" y="254.59656530923624"/>
+      <point x="503.869036813033" y="269.0022310797036" type="curve"/>
+      <point x="672.2253512387365" y="463.90704124176796" type="line"/>
+      <point x="700.3462799198646" y="496.4624240610741"/>
+      <point x="677.2190606638577" y="547.0"/>
+      <point x="634.2" y="547.0" type="curve"/>
+      <point x="527.29133656805" y="547.0" type="line"/>
+      <point x="510.00608614093767" y="547.0"/>
+      <point x="493.6215777265616" y="539.2904287303658"/>
+      <point x="482.603021142766" y="525.9723472942998" type="curve"/>
+      <point x="331.7403743022286" y="343.6253219826937" type="line"/>
+      <point x="305.2846624489375" y="311.6484180904549"/>
+      <point x="325.03551010558147" y="263.0849685400543"/>
+      <point x="366.3" y="258.65" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <real>78.2</real>
+        <key>weight</key>
+        <integer>-7</integer>
+        <key>width</key>
+        <integer>85</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="germandbls.sc" format="2">
+  <advance width="620"/>
+  <outline>
+    <contour>
+      <point x="564" y="53"/>
+      <point x="564" y="154" type="curve" smooth="yes"/>
+      <point x="564" y="255"/>
+      <point x="492" y="311"/>
+      <point x="384" y="311" type="curve" smooth="yes"/>
+      <point x="363" y="311"/>
+      <point x="339" y="309"/>
+      <point x="319" y="300" type="curve"/>
+      <point x="320.1" y="295.6" type="line"/>
+      <point x="320.4954839305047" y="294.0180642779811"/>
+      <point x="322.46711837259414" y="293.4746808384322"/>
+      <point x="323.617174387836" y="294.630664977464" type="curve"/>
+      <point x="513.2535331638028" y="485.2445307574306" type="line"/>
+      <point x="514.372085998237" y="486.36884932812484"/>
+      <point x="515.0" y="487.8902961104141"/>
+      <point x="515.0" y="489.47625093064977" type="curve"/>
+      <point x="515" y="502" type="line"/>
+      <point x="469" y="541"/>
+      <point x="408" y="559"/>
+      <point x="338" y="559" type="curve" smooth="yes"/>
+      <point x="200" y="559"/>
+      <point x="116" y="474"/>
+      <point x="116" y="333" type="curve" smooth="yes"/>
+      <point x="116.0" y="5.999999999999999" type="line"/>
+      <point x="116.0" y="2.6862915010152384"/>
+      <point x="118.68629150101523" y="0.0"/>
+      <point x="122.0" y="0.0" type="curve"/>
+      <point x="130.0" y="0.0" type="line"/>
+      <point x="133.31370849898477" y="0.0"/>
+      <point x="136.0" y="2.6862915010152384"/>
+      <point x="136.0" y="5.999999999999999" type="curve"/>
+      <point x="136" y="331" type="line" smooth="yes"/>
+      <point x="136" y="467"/>
+      <point x="210" y="540"/>
+      <point x="338" y="540" type="curve" smooth="yes"/>
+      <point x="404" y="540"/>
+      <point x="461" y="525"/>
+      <point x="503" y="488" type="curve"/>
+      <point x="503.55" y="495.15" type="line"/>
+      <point x="503.703778506116" y="497.1491205795082"/>
+      <point x="501.28252600363203" y="498.25548646137963"/>
+      <point x="499.87179416884413" y="496.8307174939073" type="curve"/>
+      <point x="305.70357664848194" y="300.7304779086658" type="line"/>
+      <point x="304.0556753612625" y="299.0661795937129"/>
+      <point x="303.52682435207856" y="296.59513506112387"/>
+      <point x="304.34919319745023" y="294.402151473466" type="curve"/>
+      <point x="309" y="282" type="line"/>
+      <point x="330" y="288"/>
+      <point x="357" y="292"/>
+      <point x="384" y="292" type="curve" smooth="yes"/>
+      <point x="481" y="292"/>
+      <point x="544" y="246"/>
+      <point x="544" y="154" type="curve" smooth="yes"/>
+      <point x="544" y="64"/>
+      <point x="481" y="16"/>
+      <point x="387" y="16" type="curve" smooth="yes"/>
+      <point x="345" y="16"/>
+      <point x="311" y="24"/>
+      <point x="280" y="39" type="curve"/>
+      <point x="272" y="20" type="line"/>
+      <point x="307" y="4"/>
+      <point x="343" y="-3"/>
+      <point x="386" y="-3" type="curve" smooth="yes"/>
+      <point x="493" y="-3"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=|u.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>b.sc</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

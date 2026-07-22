@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l" format="2">
+  <advance width="326"/>
+  <unicode hex="006C"/>
+  <anchor x="163" y="0" name="bottom"/>
+  <anchor x="163" y="370" name="center"/>
+  <anchor x="416" y="370" name="dot"/>
+  <anchor x="163" y="742" name="top"/>
+  <anchor x="346" y="742" name="topright"/>
+  <outline>
+    <contour>
+      <point x="50.0" y="57.99999999999999" type="line"/>
+      <point x="50.0" y="25.96748450981397"/>
+      <point x="75.96748450981397" y="0.0"/>
+      <point x="108.0" y="0.0" type="curve"/>
+      <point x="218.0" y="0.0" type="line"/>
+      <point x="250.03251549018603" y="0.0"/>
+      <point x="276.0" y="25.96748450981397"/>
+      <point x="276.0" y="57.99999999999999" type="curve"/>
+      <point x="276.0" y="684.0" type="line"/>
+      <point x="276.0" y="716.032515490186"/>
+      <point x="250.03251549018603" y="742.0"/>
+      <point x="218.0" y="742.0" type="curve"/>
+      <point x="108.0" y="742.0" type="line"/>
+      <point x="75.96748450981397" y="742.0"/>
+      <point x="50.0" y="716.032515490186"/>
+      <point x="50.0" y="684.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|</string>
+    </dict>
+  </lib>
+</glyph>

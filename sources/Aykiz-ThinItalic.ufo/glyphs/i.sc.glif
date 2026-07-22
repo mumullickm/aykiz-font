@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="i.sc" format="2">
+  <advance width="264"/>
+  <anchor x="80" y="0" name="bottom"/>
+  <anchor x="90" y="0" name="ogonek"/>
+  <anchor x="192" y="559" name="top"/>
+  <anchor x="108" y="559" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="71.43831254393925" y="7.178720643411085" type="line"/>
+      <point x="70.69431965646382" y="3.4653989996721255"/>
+      <point x="73.53427078932566" y="0.0"/>
+      <point x="77.32139146953566" y="0.0" type="curve"/>
+      <point x="85.0829019115019" y="0.0" type="line"/>
+      <point x="87.94221212581962" y="0.0"/>
+      <point x="90.40425950784291" y="2.0176880793230647"/>
+      <point x="90.96598083709831" y="4.821279356588914" type="curve"/>
+      <point x="200.56168745606075" y="551.8212793565889" type="line"/>
+      <point x="201.30568034353618" y="555.5346010003278"/>
+      <point x="198.46572921067434" y="559.0"/>
+      <point x="194.67860853046434" y="559.0" type="curve"/>
+      <point x="186.91709808849808" y="559.0" type="line"/>
+      <point x="184.05778787418038" y="559.0"/>
+      <point x="181.5957404921571" y="556.9823119206769"/>
+      <point x="181.03401916290167" y="554.1787206434111" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>h.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>h.sc</string>
+    </dict>
+  </lib>
+</glyph>

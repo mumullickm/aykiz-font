@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="strokelongcomb.sc" format="2">
+  <anchor x="455" y="358" name="_center"/>
+  <outline>
+    <contour>
+      <point x="82.25" y="351.9" type="line"/>
+      <point x="76.44027343820407" y="323.5485343784359"/>
+      <point x="98.10020761406486" y="297.0"/>
+      <point x="127.04081102196862" y="297.0" type="curve"/>
+      <point x="765.6800174995595" y="297.0" type="line"/>
+      <point x="793.224547931699" y="297.0"/>
+      <point x="816.9698539637689" y="316.37288734319225"/>
+      <point x="822.4993236789751" y="343.35669955339847" type="curve"/>
+      <point x="826.75" y="364.1" type="line"/>
+      <point x="832.559726561796" y="392.4514656215641"/>
+      <point x="810.8997923859351" y="419.0"/>
+      <point x="781.9591889780314" y="419.0" type="curve"/>
+      <point x="143.31998250044043" y="419.0" type="line"/>
+      <point x="115.77545206830098" y="419.0"/>
+      <point x="92.0301460362311" y="399.62711265680775"/>
+      <point x="86.50067632102491" y="372.64330044660153" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>1000</integer>
+    </dict>
+  </lib>
+</glyph>

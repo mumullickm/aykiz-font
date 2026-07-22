@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ghestroke-cy.loclBSH" format="2">
+  <advance width="570"/>
+  <outline>
+    <contour>
+      <point x="146.0" y="325.0" type="line"/>
+      <point x="146.0" y="321.68629150101526"/>
+      <point x="148.68629150101523" y="319.0"/>
+      <point x="152.0" y="319.0" type="curve"/>
+      <point x="469.0" y="319.0" type="line"/>
+      <point x="472.31370849898474" y="319.0"/>
+      <point x="475.0" y="321.68629150101526"/>
+      <point x="475.0" y="325.0" type="curve"/>
+      <point x="475.0" y="332.0" type="line"/>
+      <point x="475.0" y="335.31370849898474"/>
+      <point x="472.31370849898474" y="338.0"/>
+      <point x="469.0" y="338.0" type="curve"/>
+      <point x="152.0" y="338.0" type="line"/>
+      <point x="148.68629150101523" y="338.0"/>
+      <point x="146.0" y="335.31370849898474"/>
+      <point x="146.0" y="332.0" type="curve"/>
+    </contour>
+    <component base="Ge-cy"/>
+  </outline>
+</glyph>

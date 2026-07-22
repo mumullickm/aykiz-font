@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="slashshortcomb" format="2">
+  <unicode hex="0337"/>
+  <anchor x="217" y="388" name="_center"/>
+  <outline>
+    <contour>
+      <point x="85.08048000037995" y="271.4442612239858" type="line"/>
+      <point x="94.41439559853805" y="259.0625364509189"/>
+      <point x="112.03347497249219" y="256.6240024880586"/>
+      <point x="124.37944025001505" y="266.0051660681118" type="curve"/>
+      <point x="358.9530031653968" y="444.2474432654628" type="line"/>
+      <point x="371.168766678418" y="453.5296721714144"/>
+      <point x="373.63969895641696" y="470.9138748750302"/>
+      <point x="364.49418343542175" y="483.2323243522891" type="curve"/>
+      <point x="348.91618761927043" y="504.21493096179904" type="line"/>
+      <point x="339.6105636724099" y="516.7490366861417"/>
+      <point x="321.8520357713034" y="519.2526294598123"/>
+      <point x="309.44386956926706" y="509.77972838083826" type="curve"/>
+      <point x="75.12047618174992" y="330.88767536456174" type="line"/>
+      <point x="62.88194445684134" y="321.54428017672836"/>
+      <point x="60.48396156246335" y="304.0722958865282"/>
+      <point x="69.75265371209323" y="291.7770920145702" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>443</integer>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>

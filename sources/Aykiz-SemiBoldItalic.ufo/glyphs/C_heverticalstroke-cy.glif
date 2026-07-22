@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Cheverticalstroke-cy" format="2">
+  <advance width="739"/>
+  <unicode hex="04B8"/>
+  <outline>
+    <contour>
+      <point x="262.67735661666507" y="129.4770176321992" type="line"/>
+      <point x="259.2222625912885" y="112.15485704551391"/>
+      <point x="272.473080536688" y="96.0"/>
+      <point x="290.1364585294476" y="96.0" type="curve"/>
+      <point x="318.0333527913071" y="96.0" type="line"/>
+      <point x="331.3858784546554" y="96.0"/>
+      <point x="342.8805969007842" y="105.42839797555341"/>
+      <point x="345.49245470408965" y="118.52298236780078" type="curve"/>
+      <point x="408.32264338333493" y="433.5229823678008" type="line"/>
+      <point x="411.7777374087115" y="450.8451429544861"/>
+      <point x="398.526919463312" y="467.0"/>
+      <point x="380.8635414705524" y="467.0" type="curve"/>
+      <point x="352.9666472086929" y="467.0" type="line"/>
+      <point x="339.6141215453446" y="467.0"/>
+      <point x="328.1194030992158" y="457.5716020244466"/>
+      <point x="325.50754529591035" y="444.4770176321992" type="curve"/>
+    </contour>
+    <component base="Che-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

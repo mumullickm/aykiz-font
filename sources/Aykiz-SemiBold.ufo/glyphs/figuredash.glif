@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="figuredash" format="2">
+  <advance width="700"/>
+  <unicode hex="2012"/>
+  <outline>
+    <contour>
+      <point x="46.0" y="346.0" type="line"/>
+      <point x="46.0" y="330.5360270047378"/>
+      <point x="58.536027004737775" y="318.0"/>
+      <point x="74.0" y="318.0" type="curve"/>
+      <point x="626.0" y="318.0" type="line"/>
+      <point x="641.4639729952622" y="318.0"/>
+      <point x="654.0" y="330.5360270047378"/>
+      <point x="654.0" y="346.0" type="curve"/>
+      <point x="654.0" y="365.0" type="line"/>
+      <point x="654.0" y="380.4639729952622"/>
+      <point x="641.4639729952622" y="393.0"/>
+      <point x="626.0" y="393.0" type="curve"/>
+      <point x="74.0" y="393.0" type="line"/>
+      <point x="58.536027004737775" y="393.0"/>
+      <point x="46.0" y="380.4639729952622"/>
+      <point x="46.0" y="365.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|</string>
+    </dict>
+  </lib>
+</glyph>

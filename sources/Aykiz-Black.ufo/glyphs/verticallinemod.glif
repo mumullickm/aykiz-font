@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="verticallinemod" format="2">
+  <advance width="202"/>
+  <unicode hex="02C8"/>
+  <outline>
+    <contour>
+      <point x="29.0" y="555.0" type="line"/>
+      <point x="29.0" y="522.967484509814"/>
+      <point x="54.96748450981397" y="497.0"/>
+      <point x="87.0" y="497.0" type="curve"/>
+      <point x="115.0" y="497.0" type="line"/>
+      <point x="147.03251549018603" y="497.0"/>
+      <point x="173.0" y="522.967484509814"/>
+      <point x="173.0" y="555.0" type="curve"/>
+      <point x="173.0" y="643.0" type="line"/>
+      <point x="173.0" y="675.032515490186"/>
+      <point x="147.03251549018603" y="701.0"/>
+      <point x="115.0" y="701.0" type="curve"/>
+      <point x="87.0" y="701.0" type="line"/>
+      <point x="54.96748450981397" y="701.0"/>
+      <point x="29.0" y="675.032515490186"/>
+      <point x="29.0" y="643.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=H*0.5</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=H*0.5</string>
+    </dict>
+  </lib>
+</glyph>

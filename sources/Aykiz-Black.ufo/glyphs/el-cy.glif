@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="el-cy" format="2">
+  <advance width="696"/>
+  <unicode hex="043B"/>
+  <anchor x="417" y="0" name="#exit"/>
+  <anchor x="417" y="0" name="bottomleft"/>
+  <outline>
+    <contour>
+      <point x="11" y="0" type="line"/>
+      <point x="51" y="-10"/>
+      <point x="86" y="-15"/>
+      <point x="116" y="-15" type="curve" smooth="yes"/>
+      <point x="265" y="-15"/>
+      <point x="303" y="102"/>
+      <point x="311" y="300" type="curve" smooth="yes"/>
+      <point x="314.73770873230023" y="390.45255132166534" type="line"/>
+      <point x="315.1685386169683" y="400.8786345306329"/>
+      <point x="302.36507193769984" y="406.179426019239"/>
+      <point x="295.3" y="398.5" type="curve"/>
+      <point x="290.7" y="393.5" type="line"/>
+      <point x="282.78847332263246" y="384.90051448112223"/>
+      <point x="288.88833906841916" y="371.0"/>
+      <point x="300.57351795263344" y="371.0" type="curve"/>
+      <point x="435.44635864581767" y="371.0" type="line"/>
+      <point x="446.51449110154965" y="371.0"/>
+      <point x="451.93766725771894" y="384.48835997729"/>
+      <point x="443.95" y="392.15" type="curve"/>
+      <point x="439.05" y="396.85" type="line"/>
+      <point x="430.7663684473806" y="404.79552414230835"/>
+      <point x="417.0" y="398.92459481674376"/>
+      <point x="417.0" y="387.44635864581767" type="curve"/>
+      <point x="417.0" y="57.99999999999999" type="line"/>
+      <point x="417.0" y="25.96748450981397"/>
+      <point x="442.96748450981397" y="0.0"/>
+      <point x="475.0" y="0.0" type="curve"/>
+      <point x="585.0" y="0.0" type="line"/>
+      <point x="617.032515490186" y="0.0"/>
+      <point x="643.0" y="25.96748450981397"/>
+      <point x="643.0" y="57.99999999999999" type="curve"/>
+      <point x="643.0" y="489.0" type="line"/>
+      <point x="643.0" y="521.032515490186"/>
+      <point x="617.032515490186" y="547.0"/>
+      <point x="585.0" y="547.0" type="curve"/>
+      <point x="177.0831769655956" y="547.0" type="line"/>
+      <point x="145.80911203803356" y="547.0"/>
+      <point x="120.16655097661032" y="522.204891554157"/>
+      <point x="119.1159152734323" y="490.94847938461055" type="curve"/>
+      <point x="113" y="309" type="line" smooth="yes"/>
+      <point x="110" y="227"/>
+      <point x="101" y="181"/>
+      <point x="43" y="181" type="curve" smooth="yes"/>
+      <point x="36" y="181"/>
+      <point x="28" y="182"/>
+      <point x="20" y="183" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <real>78.2</real>
+        <key>weight</key>
+        <integer>-7</integer>
+        <key>width</key>
+        <integer>85</integer>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

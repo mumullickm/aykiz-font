@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravecomb" format="2">
+  <unicode hex="0300"/>
+  <anchor x="353" y="532" name="_top"/>
+  <anchor x="388" y="709" name="top"/>
+  <outline>
+    <contour>
+      <point x="338.9380703878861" y="614.5020733890505" type="line"/>
+      <point x="344.1195146231023" y="609.6804516701687"/>
+      <point x="350.9347194515787" y="607.0"/>
+      <point x="358.0125298730753" y="607.0" type="curve"/>
+      <point x="403.1" y="607.0" type="line"/>
+      <point x="421.42774264057647" y="607.0"/>
+      <point x="431.50558527822926" y="628.3113779337934"/>
+      <point x="419.8767539319797" y="642.4774088464975" type="curve"/>
+      <point x="347.4011969743598" y="730.7658145948708" type="line"/>
+      <point x="342.0827397195217" y="737.2446625234917"/>
+      <point x="334.14141545912963" y="741.0"/>
+      <point x="325.75920464969903" y="741.0" type="curve"/>
+      <point x="264.2" y="741.0" type="line"/>
+      <point x="242.33588352855708" y="741.0"/>
+      <point x="231.79657334804372" y="714.2031886900148"/>
+      <point x="247.80261102107553" y="699.3086814109436" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

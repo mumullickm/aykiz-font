@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macroncomb.loclVIET" format="2">
+  <anchor x="355" y="547" name="_top"/>
+  <anchor x="392" y="730" name="top"/>
+  <outline>
+    <contour>
+      <point x="168.9" y="666.4" type="line"/>
+      <point x="163.77183082900422" y="640.2929569476578"/>
+      <point x="183.7571833357793" y="616.0"/>
+      <point x="210.36311906416898" y="616.0" type="curve"/>
+      <point x="531.2845058388532" y="616.0" type="line"/>
+      <point x="559.0069569649854" y="616.0"/>
+      <point x="582.8535651582873" y="635.6181498967354"/>
+      <point x="588.1969374290762" y="662.8207723662061" type="curve"/>
+      <point x="591.1" y="677.6" type="line"/>
+      <point x="596.2281691709958" y="703.7070430523422"/>
+      <point x="576.2428166642208" y="728.0"/>
+      <point x="549.636880935831" y="728.0" type="curve"/>
+      <point x="228.71549416114684" y="728.0" type="line"/>
+      <point x="200.9930430350146" y="728.0"/>
+      <point x="177.14643484171268" y="708.3818501032646"/>
+      <point x="171.8030625709238" y="681.1792276337939" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

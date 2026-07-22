@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ustraitstroke-cy" format="2">
+  <advance width="582"/>
+  <unicode hex="04B1"/>
+  <outline>
+    <contour>
+      <point x="69.29" y="-5.0000000000000036" type="line"/>
+      <point x="69.29" y="-20.46397299526222"/>
+      <point x="81.82602700473778" y="-33.0"/>
+      <point x="97.29" y="-33.0" type="curve"/>
+      <point x="482.45" y="-33.0" type="line"/>
+      <point x="497.9139729952622" y="-33.0"/>
+      <point x="510.45" y="-20.46397299526222"/>
+      <point x="510.45" y="-5.0000000000000036" type="curve"/>
+      <point x="510.45" y="16.000000000000004" type="line"/>
+      <point x="510.45" y="31.46397299526222"/>
+      <point x="497.9139729952622" y="44.0"/>
+      <point x="482.45" y="44.0" type="curve"/>
+      <point x="97.29" y="44.0" type="line"/>
+      <point x="81.82602700473778" y="44.0"/>
+      <point x="69.29" y="31.46397299526222"/>
+      <point x="69.29" y="16.000000000000004" type="curve"/>
+    </contour>
+    <component base="ustrait-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>
