@@ -44,14 +44,8 @@
       <point x="399" y="374"/>
       <point x="384" y="362"/>
       <point x="352" y="362" type="curve" smooth="yes"/>
-      <point x="303.05" y="362.0" type="line"/>
-      <point x="280.9309957692767" y="362.0"/>
-      <point x="263.0" y="344.0690042307233"/>
-      <point x="263.0" y="321.95" type="curve"/>
-      <point x="263.0" y="277.1" type="line"/>
-      <point x="263.0" y="247.77367978398487"/>
-      <point x="286.77367978398485" y="224.0"/>
-      <point x="316.1" y="224.0" type="curve"/>
+      <point x="263" y="362" type="line"/>
+      <point x="263" y="224" type="line"/>
       <point x="381" y="224" type="line" smooth="yes"/>
       <point x="410" y="224"/>
       <point x="426" y="211"/>

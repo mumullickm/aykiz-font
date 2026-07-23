@@ -39,22 +39,10 @@
       <point x="86" y="315" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="157.0" y="172.0" type="line"/>
-      <point x="157.0" y="156.53602700473778"/>
-      <point x="169.53602700473778" y="144.0"/>
-      <point x="185.0" y="144.0" type="curve"/>
-      <point x="503.0" y="144.0" type="line"/>
-      <point x="518.4639729952622" y="144.0"/>
-      <point x="531.0" y="156.53602700473778"/>
-      <point x="531.0" y="172.0" type="curve"/>
-      <point x="531.0" y="208.0" type="line"/>
-      <point x="531.0" y="223.46397299526222"/>
-      <point x="518.4639729952622" y="236.0"/>
-      <point x="503.0" y="236.0" type="curve"/>
-      <point x="185.0" y="236.0" type="line"/>
-      <point x="169.53602700473778" y="236.0"/>
-      <point x="157.0" y="223.46397299526222"/>
-      <point x="157.0" y="208.0" type="curve"/>
+      <point x="157" y="144" type="line"/>
+      <point x="531" y="144" type="line"/>
+      <point x="531" y="236" type="line"/>
+      <point x="157" y="236" type="line"/>
     </contour>
   </outline>
   <lib>

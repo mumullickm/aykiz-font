@@ -8,14 +8,8 @@
   <anchor x="19" y="700" name="topleft"/>
   <outline>
     <contour>
-      <point x="233.0" y="404.0" type="line"/>
-      <point x="217.53602700473778" y="404.0"/>
-      <point x="205.0" y="391.4639729952622"/>
-      <point x="205.0" y="376.0" type="curve"/>
-      <point x="205.0" y="335.0" type="line"/>
-      <point x="205.0" y="319.5360270047378"/>
-      <point x="217.53602700473778" y="307.0"/>
-      <point x="233.0" y="307.0" type="curve"/>
+      <point x="205" y="404" type="line"/>
+      <point x="205" y="307" type="line"/>
       <point x="531.0" y="307.0" type="line"/>
       <point x="546.4639729952622" y="307.0"/>
       <point x="559.0" y="319.5360270047378"/>

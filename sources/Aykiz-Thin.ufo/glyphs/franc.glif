@@ -22,14 +22,8 @@
       <point x="30.0" y="169.0" type="curve"/>
     </contour>
     <contour>
-      <point x="161.0" y="345.0" type="line"/>
-      <point x="157.68629150101523" y="345.0"/>
-      <point x="155.0" y="342.31370849898474"/>
-      <point x="155.0" y="339.0" type="curve"/>
-      <point x="155.0" y="332.0" type="line"/>
-      <point x="155.0" y="328.68629150101526"/>
-      <point x="157.68629150101523" y="326.0"/>
-      <point x="161.0" y="326.0" type="curve"/>
+      <point x="155" y="345" type="line"/>
+      <point x="155" y="326" type="line"/>
       <point x="540.0" y="326.0" type="line"/>
       <point x="543.3137084989847" y="326.0"/>
       <point x="546.0" y="328.68629150101526"/>

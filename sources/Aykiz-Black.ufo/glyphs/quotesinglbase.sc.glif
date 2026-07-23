@@ -24,10 +24,7 @@
       <point x="20" y="42"/>
       <point x="74" y="-5"/>
       <point x="152" y="-5" type="curve"/>
-      <point x="133.85" y="64.3" type="line"/>
-      <point x="129.71385740242476" y="80.09254446346912"/>
-      <point x="107.38281475031538" y="80.33985162610381"/>
-      <point x="102.89793755153273" y="64.64278143036458" type="curve"/>
+      <point x="119" y="121" type="line"/>
     </contour>
   </outline>
   <lib>

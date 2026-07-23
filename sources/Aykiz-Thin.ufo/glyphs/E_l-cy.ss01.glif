@@ -5,14 +5,8 @@
   <anchor x="646" y="0" name="bottomleft"/>
   <outline>
     <contour>
-      <point x="133.0" y="5.999999999999999" type="line"/>
-      <point x="133.0" y="2.6862915010152384"/>
-      <point x="135.68629150101523" y="0.0"/>
-      <point x="139.0" y="0.0" type="curve"/>
-      <point x="147.0" y="0.0" type="line"/>
-      <point x="150.31370849898477" y="0.0"/>
-      <point x="153.0" y="2.6862915010152384"/>
-      <point x="153.0" y="5.999999999999999" type="curve"/>
+      <point x="133" y="0" type="line"/>
+      <point x="153" y="0" type="line"/>
       <point x="153" y="414" type="line" smooth="yes"/>
       <point x="153" y="595"/>
       <point x="246" y="684"/>
@@ -39,20 +33,14 @@
     <contour>
       <point x="53.0" y="19.0" type="line"/>
       <point x="49.68629150101524" y="19.0"/>
-      <point x="47.0" y="16.313708498984763"/>
+      <point x="47.0" y="16.31370849898476"/>
       <point x="47.0" y="13.0" type="curve"/>
       <point x="47.0" y="5.999999999999999" type="line"/>
       <point x="47.0" y="2.6862915010152384"/>
       <point x="49.68629150101524" y="0.0"/>
       <point x="53.0" y="0.0" type="curve"/>
-      <point x="138.0" y="0.0" type="line"/>
-      <point x="141.31370849898477" y="0.0"/>
-      <point x="144.0" y="2.6862915010152384"/>
-      <point x="144.0" y="5.999999999999999" type="curve"/>
-      <point x="144.0" y="13.0" type="line"/>
-      <point x="144.0" y="16.313708498984763"/>
-      <point x="141.31370849898477" y="19.0"/>
-      <point x="138.0" y="19.0" type="curve"/>
+      <point x="144" y="0" type="line"/>
+      <point x="144" y="19" type="line"/>
     </contour>
   </outline>
 </glyph>
